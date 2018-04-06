@@ -17,7 +17,7 @@ theme = "beautifulhugo"
   name = "Madison Solarana"
   github = "madsolar8582"
   twitter = "madisonsolarana"
-  linkedin = "madison-solarana"
+  linkedin = "madisonsolarana"
 
 [[menu.main]]
   name = "Blog"
