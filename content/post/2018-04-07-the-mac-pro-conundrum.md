@@ -21,7 +21,7 @@ With the proclamation of "Can't innovate anymore, my ass!" (read STFU Woz) the n
 * Six Thunderbolt 2 ports
 * Four USB 3 ports
 
-Officially, Apple only said that the RAM was user-replacable, but the CPU wasn't soldered onto the motherboard, so you could replace the CPU with another LGA 2011 compatible chip. You could also go with non-Apple RAM sticks and get up to 128GB of memory installed. However, that was it as the Mac Pro had adopted Apple's new hardware pattern of using custom connectors, screws, and soldering anything and everything if possible.
+Officially, Apple only said that the RAM was user-replaceable, but the CPU wasn't soldered onto the motherboard, so you could replace the CPU with another LGA 2011 compatible chip. You could also go with non-Apple RAM sticks and get up to 128GB of memory installed. However, that was it as the Mac Pro had adopted Apple's new hardware pattern of using custom connectors, screws, and soldering anything and everything if possible.
 
 As time progressed, people who purchased the new Mac Pro began running into an issue: the Mac Pro was starting to get outclassed when the newer GPUs and CPUs started coming to the traditional PC workstations and they could no longer replace parts themselves. The older tower design<a href="#note1" id="note1ref"><sup>1</sup></a> allowed the owner the ability to completely overhaul the internals of the machine, allowing it to change with the demands of the user, but now, they were stuck (and somewhat upset). The mindset became "I'll sell this one and upgrade to the next one", but there was one problem... the next one never appeared.
 

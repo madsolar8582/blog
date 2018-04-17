@@ -93,7 +93,7 @@ NSRecursiveLock *lock = [[NSRecursiveLock alloc] init];
 ```
 
 ## Grand Central Dispatch
-Rather than using a lock, you can also use [queues](https://en.wikipedia.org/wiki/Priority_queue) (serial or concurrent). Submitting work to a [GCD](https://developer.apple.com/documentation/dispatch?language=objc) queue can be done synchronously or asynchronously and there are [barrier](https://en.wikipedia.org/wiki/Barrier_(computer_science)) variants that will wait for existing executions to complete before executing themselves. The system provides default queues to perform work on: 
+Rather than using a lock, you can also use [queues](https://en.wikipedia.org/wiki/Priority_queue) (serial or concurrent). Submitting work to a [GCD](https://developer.apple.com/documentation/dispatch?language=objc) queue can be done synchronously or asynchronously and there are [barrier](https://en.wikipedia.org/wiki/Barrier_(computer_science)) variants that will wait for existing submissions to complete before executing themselves. The system provides default queues to perform work on: 
 
 * `QOS_CLASS_USER_INTERACTIVE` aka the main (UI) queue
 * `QOS_CLASS_USER_INITIATED` (née `DISPATCH_QUEUE_PRIORITY_HIGH`)
@@ -146,7 +146,7 @@ operationQueue.qualityOfService = NSQualityOfServiceUtility;
 ```
 
 ## Semaphores
-Both the pthread library and GCD also provide a [semaphore](https://en.wikipedia.org/wiki/Semaphore_(programming)) implementation as a form of synchronization (although the pthread implementation is deprecated). Semaphores are similar to locks in that a calling thread requests (locks) the shared resource and then signals (unlocks) when it is done using it, but unlike non-blocking locks, the semaphore will block the calling thread until it is available. Therefore, it is important to call into semaphore protected code with threads that share the same priority since they do not benefit from [priority inheritance](https://en.wikipedia.org/wiki/Priority_inheritance).
+Both the pthread library and GCD also provide a [semaphore](https://en.wikipedia.org/wiki/Semaphore_(programming)) implementation as a form of synchronization (although the pthread implementation is deprecated). Semaphores are similar to locks in that a calling thread requests (locks) the shared resource and then signals (unlocks) when it is done using it. The semaphore behaves like a blocking lock and blocks the calling thread until it is available. Therefore, it is important to call into semaphore protected code with threads that share the same priority since they do not benefit from [priority inheritance](https://en.wikipedia.org/wiki/Priority_inheritance).
 
 POSIX Example:
 ```obj-c
