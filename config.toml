@@ -1,35 +1,45 @@
 baseURL = "/"
+title = "Home"
 languageCode = "en-us"
-title = "My Blog"
-theme = "beautifulhugo"
+theme = "ghostwriter"
+copyright = "Madison Solarana"
+
+[Privacy]
+
+[Privacy.disqus]
+  disable = true
+
+[Privacy.googleAnalytics]
+  anonymizeIP = true
+  respectDoNotTrack = true
+  useSessionStorage = false
 
 [Params]
-  subtitle = "A collection of ramblings, thoughts, and ideas"
-  rss = true
-  readingTime = true
-  useHLJS = true
+  intro = true
+  headline = "My Blog"
+  description = "A collection of ramblings, thoughts, and ideas"
   dateFormat = "Monday, January 2, 2006"
-  socialShare = true
-  #logo = "img/avatar-icon.png"
-  #favicon = "img/favicon.ico"
+  github = "https://github.com/madsolar8582"
+  linkedin = "https://linkedin.com/in/madisonsolarana"
+  twitter = "https://twitter.com/madisonsolarana"
+  opengraph = true
+  shareTwitter = true
+  shareFacebook = true
+  shareGooglePlus = true
+  shareLinkedIn = true
 
 [Author]
   name = "Madison Solarana"
-  github = "madsolar8582"
-  twitter = "madisonsolarana"
-  linkedin = "madisonsolarana"
+
+[Taxonomies]
+  tag = "tags"
 
 [[menu.main]]
   name = "Blog"
-  url = ""
+  url = "/"
   weight = 1
 
 [[menu.main]]
   name = "About"
-  url = "page/about/"
-  weight = 3
-
-[[menu.main]]
-  name = "Tags"
-  url = "tags"
-  weight = 3
+  url = "/page/about/"
+  weight = 2
