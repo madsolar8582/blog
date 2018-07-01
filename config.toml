@@ -16,7 +16,7 @@ copyright = "Madison Solarana"
 
 [Params]
   intro = true
-  headline = "My Blog"
+  headline = "Madison's Blog"
   description = "A collection of ramblings, thoughts, and ideas"
   dateFormat = "Monday, January 2, 2006"
   github = "https://github.com/madsolar8582"
@@ -43,3 +43,8 @@ copyright = "Madison Solarana"
   name = "About"
   url = "/page/about/"
   weight = 2
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 3
