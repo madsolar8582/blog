@@ -141,7 +141,7 @@ Rather than use Safari for authentication (thus avoiding ITP and access prompts)
 
 ## The Proposals and Requests
 
-There are other solutions to this usability problem that aren't possible yet as they require new API from Apple. These are a few of the ones that I have suggested:
+There are other solutions to this usability problem that aren't possible yet as they require new/modified APIs from Apple. These are a few of the ones that I have suggested:
 
 ### Access Prompt Enhanced
 
@@ -158,7 +158,7 @@ Similar to the WKWebView suggestion above, if a developer can initialize a regul
 
 ### MDM
 
-An MDM can be used in a variety of ways to mitigate the various limitations imposed on the applications. By creating an MDM payload, bypasses/white-listing can be implemented in such a way that ITP will leave certain domains alone and access prompts can be skipped for those domains as well. For institution owned devices, this is a big win since they can now control the full experience and make sure that the applications they give their users will work. However, the trend towards [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device) may mean that the I.T. staff need to create two profiles (full and lite) so that the personal devices get a payload that only manages the appropriate settings.
+An [MDM](https://en.wikipedia.org/wiki/Mobile_device_management) can be used in a variety of ways to mitigate the various limitations imposed on the applications. By creating an MDM payload, bypasses/white-listing can be implemented in such a way that ITP will leave certain domains alone and access prompts can be skipped for those domains as well. For institution owned devices, this is a big win since they can now control the full experience and make sure that the applications they give their users will work. However, the trend towards [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device) may mean that the I.T. staff need to create two profiles (full and lite) so that the personal devices get a payload that only manages the appropriate settings.
 
 ### Password Manager Control
 
