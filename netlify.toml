@@ -17,3 +17,9 @@ HUGO_ENV = "production"
     Expect-CT = "max-age=31536000, enforce"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
     Referrer-Policy = "no-referrer, strict-origin-when-cross-origin"
+
+[[redirects]]
+  from = "http://msolarana.netlify.com/*"
+  to = "https://msolarana.netlify.com/:splat"
+  status = 301
+  force = true
