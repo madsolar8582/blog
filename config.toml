@@ -34,6 +34,9 @@ copyright = "Madison Solarana"
 [Taxonomies]
   tag = "tags"
 
+[Permalinks]
+  post = "/:year/:month/:day/:title/"
+
 [[menu.main]]
   name = "Blog"
   url = "/"
