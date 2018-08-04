@@ -2,7 +2,6 @@
 title: "Monitoring Network Changes"
 subtitle: ""
 date: 2018-08-04T11:00:00-05:00
-draft: true
 tags: ["reachability", "nwmonitor"]
 ---
 
