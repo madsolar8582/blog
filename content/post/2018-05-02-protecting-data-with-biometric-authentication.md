@@ -427,5 +427,6 @@ Delete Example:
 }
 ```
 
-## Conclusion
+---
+
 The keychain API is messy and complicated, but it is much better than trying to create your own "secure" database to store secrets in. Also, using biometric authentication provides an additional layer of security around passwords, certificates, and keys since biometrics are hard to spoof and the secure enclave has proven to be "unhackable" thus far. Going forward, it is looking like every Apple device will have some sort of biometric authentication mechanism, so leveraging it now should be future proof.

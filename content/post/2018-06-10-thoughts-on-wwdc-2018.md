@@ -34,5 +34,6 @@ On the testing front, we can now randomize the test order (good for discovering 
 
 Lastly, ARKit, CoreML, CreateML, and Network.framework were big focuses API-wise. Apple is banking on developers using ML and AR to create whole new applications to drive new categories on the app store and move off of legacy networking code so that all apps use user-space networking for performance and security reasons.
 
-## Conclusion
+---
+
 This year's conference didn't have any major wow moments, but it was full of solid improvements. Hopefully, this means that be establishing a solid foundation this year, we'll see some really cool new features and possible redesigns next year.

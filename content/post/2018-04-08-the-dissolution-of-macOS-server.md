@@ -5,7 +5,7 @@ date: 2018-04-08T07:00:00-05:00
 tags: ["macOS", "server", "apple"]
 ---
 
-Prior to the release of macOS Lion (née OS X Lion), the server portion of the OS was a separately licensed product and, depending on which license you purchased, you either had or didn't have a client limit for the server services you enabled. Although the server OS was mainly geared towards the Xserve<a href="#note1" id="note1ref"><sup>1</sup></a>, it could run on just about any Mac that could run the normal OS. When the time came for Lion to replace Snow Leopard, things changed.
+Prior to the release of macOS Lion (née OS X Lion), the server portion of the OS was a separately licensed product and, depending on which license you purchased, you either had or didn't have a client limit for the server services you enabled. Although the server OS was mainly geared towards the Xserve[^1], it could run on just about any Mac that could run the normal OS. When the time came for Lion to replace Snow Leopard, things changed.
 
 Rather than continue to sell a separate OS, Apple decided to start leveraging their new Mac App Store to distribute the new Server app. Now, system administrators did have some initial concerns over the new distribution method since every time you needed to update the "server", you would have to manually relaunch the app for the update to complete. This is still a major headache today since if you manage headless servers, you need to use ARD to restart your services whereas the old way didn't require any user interaction at all due to the fact that the server services were part of the OS and restarted as soon as the server rebooted. However, the price was much better: you could get unlimited clients for $20 instead of $999. Another one of the benefits was that now the server features weren't necessarily tied to macOS updates and could get patched at other intervals.
 
@@ -44,4 +44,4 @@ Since there is no longer a dedicated Mac team at Apple, it appears that there is
 
 I guess we'll see in June of this year what plans Apple has in store for the future of the Server app, but the migration to the open-source versions of these services will be a pain since most don't have a GUI. My guess is that organizations will swap over to some other commercial implementation since enterprises love support contracts. Regardless, I'm sad to see the Server aspects of macOS get gutted so unceremoniously since Apple could have made a move into the business space with their simple but powerful Server offerings (especially the small/medium market). 
 
-<a id="note1" href="#note1ref"><sup>1</sup></a> RIP Xserve
+[^1]: RIP Xserve

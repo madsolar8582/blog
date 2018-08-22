@@ -113,5 +113,6 @@ dispatch_apply((size_t)tasks.count, DISPATCH_APPLY_AUTO, ^(size_t index) {
 // Process all results    
 ```
 
-## Conclusion
+---
+
 By using GCD, you can create parallelizable code anywhere in your application or framework. There are other options (e.g. [OpenMP](http://www.openmp.org/)) that add even more advanced parallelization features, but for 99% of use cases, GCD will suffice.

@@ -164,6 +164,6 @@ An [MDM](https://en.wikipedia.org/wiki/Mobile_device_management) can be used in 
 
 This is of particular interest for healthcare applications as there are various laws/regulations, policies, and [STIG](https://iase.disa.mil/stigs/app-security/app-security/Pages/index.aspx)s that prohibit the use of password autofill. With the requirement of ASWebAuthenticationSession, it becomes impossible to prevent a user from using a password manager to enter credentials. Therefore, it is necessary to add the ability to disable password manger extensions and iCloud Keychain for some apps. Luckily, Apple already provides an API to accomplish this via [UIApplicationDelegate](https://developer.apple.com/documentation/uikit/uiapplicationdelegate/1623122-application?language=objc) for 3<sup>rd</sup> party keyboards. All it needs is a new extension point identifier for password managers.
 
-## Closing Thoughts
+---
 
 If looking to provide apps that want to provide a SSO experience on iOS, you may want to hold off a bit while Apple and the industry figures out the best approach to doing so. Prior to iOS 11, it used to be as simple as the process is on Android (via [Chrome](https://github.com/GoogleChrome/custom-tabs-client)) by using Safari, but that is no more. In order to move the process forward, [logging radars](https://bugreport.apple.com/) appears to be the only thing possible until Apple acquiesces to developers to provide them a better experience.

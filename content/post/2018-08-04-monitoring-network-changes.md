@@ -164,4 +164,6 @@ Just like in the previous example, the update handler just posts a notification 
 
 The Apple mantra is to forego any pre-flight checks and just execute the operation and fail gracefully. However, those operations may be expensive so there is a need to be informed of whether or not the operation will succeed. To solve this problem, there is a [waitsForConnectivity](https://developer.apple.com/documentation/foundation/nsurlsessionconfiguration/2908812-waitsforconnectivity?language=objc) option on NSURLSessionConfiguration that allows the [URLSession:taskIsWaitingForConnectivity:](https://developer.apple.com/documentation/foundation/nsurlsessiontaskdelegate/2908819-urlsession?language=objc) method to be called. This method allows the networking operation to be queued for when the network regains connectivity and is automatically retried rather than failing immediately or allows you to cancel the operation if you believe that the operation would be stale by the time that connectivity returns.
 
+---
+
 With two different approaches to monitoring for network changes and a way to queue network requests until network connectivity returns, you can build very resilient applications and your users will thank you for it.

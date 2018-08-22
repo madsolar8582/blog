@@ -156,6 +156,6 @@ static size_t asn1PublicKeyInfoHeaderSize(NSString *publicKeyType, NSUInteger pu
 }
 ```
 
-## Closing Thoughts
+---
 
 By implementing certificate pinning in any of the ways mentioned above, an additional layer of security is added to prevent malicious actors from compromising applications or snooping on unsuspecting users. One thing to keep in mind though is that if a certificate is revoked or is replaced (since the old one was about to expire), you must coordinate application releases that can support both certificates or else your application will stop working. Getting your users to update their installation is a whole other problem...
