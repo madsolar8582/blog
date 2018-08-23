@@ -27,6 +27,7 @@ copyright = "Madison Solarana"
   shareFacebook = true
   shareGooglePlus = true
   shareLinkedIn = true
+  shareReddit = true
 
 [Author]
   name = "Madison Solarana"
