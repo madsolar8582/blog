@@ -3,6 +3,8 @@ title = "Home"
 languageCode = "en-us"
 theme = "ghostwriter"
 copyright = "Madison Solarana"
+pygmentsCodefences = true
+pygmentsUseClasses = true
 
 [Privacy]
 
