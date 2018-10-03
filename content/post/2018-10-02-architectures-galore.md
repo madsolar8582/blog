@@ -2,7 +2,6 @@
 title: "Architectures Galore"
 subtitle: ""
 date: 2018-10-02T19:00:00-05:00
-draft: true
 tags: ["architectures", "bitcode", "arm64e", "arm64_32"]
 ---
 
