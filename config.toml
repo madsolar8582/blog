@@ -27,7 +27,7 @@ pygmentsUseClasses = true
   opengraph = false
   shareTwitter = true
   shareFacebook = true
-  shareGooglePlus = true
+  shareGooglePlus = false
   shareLinkedIn = true
   shareReddit = true
 
