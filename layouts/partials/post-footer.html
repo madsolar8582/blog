@@ -25,13 +25,6 @@
           </a>
       {{ end }}
 
-      {{ if or (not (isset .Site.Params "sharegoogleplus")) .Site.Params.shareGooglePlus }}
-          <a class="icon-google-plus" target="_blank" href="https://plus.google.com/share?url={{ .Permalink }}">
-            <i class="fa fa-google-plus"></i>
-              <span class="hidden">Google+</span>
-          </a>
-      {{ end }}
-
       {{ if or (not (isset .Site.Params "sharelinkedin")) .Site.Params.shareLinkedIn }}
           <a class="icon-linkedin" target="_blank" href="https://www.linkedin.com/shareArticle?title={{ .Title }}&url={{ .Permalink }}">
              <i class="fa fa-linkedin"></i>
@@ -40,7 +33,7 @@
       {{ end }}
 
       {{ if or (not (isset .Site.Params "sharereddit")) .Site.Params.shareReddit }}
-          <a class="icon-linkedin" target="_blank" href="https://reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}">
+          <a class="icon-linkedin" target="_blank" href="https://reddit.com/submit?title={{ .Title }}&url={{ .Permalink }}">
              <i class="fa fa-reddit"></i>
              <span class="hidden">Reddit</span>
           </a>
