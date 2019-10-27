@@ -5,11 +5,7 @@ date: 2018-04-07T12:18:30-05:00
 tags: ["mac pro", "hardware", "apple"]
 ---
 
-In June of 2013, Phil Schiller took to the stage at WWDC 2013 to offer a sneak peek at the future of desktop computing:
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/hIigp_bxUcQ?start=3192&end=3388"
-  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="WWDC 2013 Keynote"></iframe>
-</div>
+In June of 2013, Phil Schiller took to the stage at WWDC 2013 to offer a sneak peek at the [future of desktop computing](https://www.youtube.com/embed/hIigp_bxUcQ?start=3192&end=3388).
 
 With the proclamation of "Can't innovate anymore, my ass!" (read STFU Woz) the new 2013 Mac Pro was revealed to the world to replace the boring, standard PC-like Mac Pro tower (aka the Cheese Grater) and Mac Pro Server edition. The new Trashcan Mac Pro was officially available in December of 2013 with some pretty impressive hardware: 
 
@@ -25,11 +21,7 @@ Officially, Apple only said that the RAM was user-replaceable, but the CPU wasn'
 
 As time progressed, people who purchased the new Mac Pro began running into an issue: the Mac Pro was starting to get outclassed when the newer GPUs and CPUs started coming to the traditional PC workstations and they could no longer replace parts themselves. The older tower design[^1] allowed the owner the ability to completely overhaul the internals of the machine, allowing it to change with the demands of the user, but now, they were stuck (and somewhat upset). The mindset became "I'll sell this one and upgrade to the next one", but there was one problem... the next one never appeared.
 
-2014, 2015, and then 2016 came and went with not a peep from Apple on the future of the Mac Pro. This lead to a narrative in the Mac community that Apple had abandoned the Pro community. Finally, in April of 2017, Apple decided to change the narrative after keeping quiet for so long. The [roundtable](https://daringfireball.net/2017/04/the_mac_pro_lives) discussion was held with Matthew Panzarino (Tech Crunch), Lance Ulanoff (Mashable), Ina Fried (Axios), John Paczkowski (BuzzFeed), and John Gruber (Daring Fireball). In this discussion, Apple admitted that the new Mac Pro design was a mistake (an almost unheard of occurrence) due to the fact that the enclosure did not provide enough room for bigger components and that it has lead to them being limited thermally as to what they can do. To ameliorate customers, they announced that the Mac Pro would get a small spec bump and that a new "completely rethought" Mac Pro was in the works, but not coming out in 2017. Later, in June, we got this:
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/oaqHdULqet0?start=2694&end=3061"
-  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="WWDC 2017 Keynote"></iframe>
-</div>
+2014, 2015, and then 2016 came and went with not a peep from Apple on the future of the Mac Pro. This lead to a narrative in the Mac community that Apple had abandoned the Pro community. Finally, in April of 2017, Apple decided to change the narrative after keeping quiet for so long. The [roundtable](https://daringfireball.net/2017/04/the_mac_pro_lives) discussion was held with Matthew Panzarino (Tech Crunch), Lance Ulanoff (Mashable), Ina Fried (Axios), John Paczkowski (BuzzFeed), and John Gruber (Daring Fireball). In this discussion, Apple admitted that the new Mac Pro design was a mistake (an almost unheard of occurrence) due to the fact that the enclosure did not provide enough room for bigger components and that it has lead to them being limited thermally as to what they can do. To ameliorate customers, they announced that the Mac Pro would get a small spec bump and that a new "completely rethought" Mac Pro was in the works, but not coming out in 2017. Later, in June, we got [this](https://www.youtube.com/embed/oaqHdULqet0?start=2694&end=3061).
 
 With the announcement and subsequent release of the iMac Pro at the end of 2017, people were under the impression that the new Mac Pro was coming soon in the first half of 2018. Fast-forward to today and there is still no new Mac Pro. To avoid the narrative taking a negative turn again, Apple [discussed](https://daringfireball.net/linked/2018/04/05/panzer-apple-mac-pro-workflows) the state of the Mac Pro with Matthew Panzarino. However, the discussion has [ruffled](https://mjtsai.com/blog/2018/04/05/new-mac-pro-wont-arrive-until-2019/) some feathers.
 
