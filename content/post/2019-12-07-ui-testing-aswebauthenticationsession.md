@@ -28,7 +28,7 @@ XCUIElement *ssoAlert = springboard.alerts.firstMatch;
 [ssoAlert.buttons[@"Continue"] tap];
 ```
 
-Now, the code above takes the easy way out and grabs the first alert, but, the query can be optimized ot grab the element that matches the title of the alert (based off of your application name) or the message contents (based off of the URL being requested). Unfortunately, this approach hasn't made it to Apple's official documentation, but, this is the recommended approach by Apple (I learned this from a Feedback ticket).
+Now, the code above takes the easy way out and grabs the first alert, but, the query can be optimized to grab the element that matches the title of the alert (based off of your application name) or the message contents (based off of the URL being requested). Unfortunately, this approach hasn't made it to Apple's official documentation, but, this is the recommended approach by Apple (I learned this from a Feedback ticket).
 
 ---
 
