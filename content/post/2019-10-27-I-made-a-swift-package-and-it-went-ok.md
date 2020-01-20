@@ -1,5 +1,5 @@
 ---
-title: "I Made a Swift Package and it went OK"
+title: "I Made a Swift Package and It Went OK"
 subtitle: ""
 date: 2019-10-27T07:00:00-05:00
 tags: ["spm", "swift package"]
