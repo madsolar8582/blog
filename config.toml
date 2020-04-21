@@ -1,4 +1,4 @@
-baseURL = "https://msolarana.netlify.com/"
+baseURL = "https://msolarana.netlify.app/"
 title = "Home"
 languageCode = "en-us"
 theme = "ghostwriter"
