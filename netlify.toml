@@ -21,7 +21,7 @@ HUGO_ENV = "production"
     Feature-Policy = "ambient-light-sensor 'none'; autoplay 'none'; accelerometer 'none'; camera 'none'; display-capture 'none'; document-domain 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'self'; speaker 'self'; sync-xhr 'none'; usb 'none'; wake-lock 'none'; webauthn 'none';"
 
 [[redirects]]
-  from = "http://msolarana.netlify.com/*"
-  to = "https://msolarana.netlify.com/:splat"
+  from = "http://msolarana.netlify.app/*"
+  to = "https://msolarana.netlify.app/:splat"
   status = 301
   force = true
