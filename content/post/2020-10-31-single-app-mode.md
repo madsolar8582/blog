@@ -11,4 +11,4 @@ If you are using [ASWebAuthenticationSession](https://developer.apple.com/docume
 
 ---
 
-I sincerely hope that this is addressed soon as it does not make sense for the Apple Enterprise team and the Authentication Services team to not have considered this a major blocked for enterprise deployments.
+I sincerely hope that this is addressed soon as it does not make sense for the Apple Enterprise team and the Authentication Services team to not have considered this a major blocker for enterprise deployments.
