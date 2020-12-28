@@ -17,8 +17,8 @@ HUGO_ENV = "production"
     Expect-CT = "max-age=31536000, enforce"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
     Referrer-Policy = "no-referrer, strict-origin-when-cross-origin"
-    Content-Security-Policy = "default-src 'none'; font-src https: data: https://cdnjs.cloudflare.com; frame-src 'self'; img-src 'self'; script-src 'self'; style-src 'self' https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; frame-ancestors 'none'; form-action 'self'; manifest-src 'self'; connect-src 'self'; base-uri 'self'; media-src 'self';"
-    Feature-Policy = "ambient-light-sensor 'none'; autoplay 'none'; accelerometer 'none'; camera 'none'; display-capture 'none'; document-domain 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'self'; speaker 'self'; sync-xhr 'none'; usb 'none'; wake-lock 'none'; webauthn 'none';"
+    Content-Security-Policy = "default-src 'none'; font-src https: data: https://cdnjs.cloudflare.com; frame-src 'self'; img-src 'self'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self' https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css; upgrade-insecure-requests; block-all-mixed-content; object-src 'none'; frame-ancestors 'none'; form-action 'self'; manifest-src 'self'; connect-src 'self'; base-uri 'self'; media-src 'self'; require-trusted-types-for 'script';"
+    Permissions-Policy = "ambient-light-sensor=('none'), autoplay=('none'), accelerometer=('none'), camera=('none'), display-capture=('none'), document-domain=(self), encrypted-media=(self), fullscreen=(self), geolocation=('none'), gyroscope=('none'), magnetometer=('none'), microphone=('none'), midi=('none'), payment=('none'), picture-in-picture=(self), speaker=(self), sync-xhr=('none'), usb=('none'), wake-lock=('none'), webauthn=('none')"
 
 [[redirects]]
   from = "http://msolarana.netlify.app/*"
