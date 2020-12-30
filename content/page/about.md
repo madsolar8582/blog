@@ -1,6 +1,7 @@
 ---
 title: About Me
 layout: "about"
+unlisted: true
 ---
 
 Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system administration. 
