@@ -36,3 +36,6 @@ pygmentsUseClasses = true
   [markup.highlight]
     style = "base16-snazzy"
     tabWidth = 2
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
