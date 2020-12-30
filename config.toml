@@ -2,6 +2,7 @@ baseURL = "https://msolarana.netlify.app/"
 languageCode = "en-us"
 theme = "paper"
 title = "Madison's Blog"
+pygmentsUseClasses = true
 
 [Author]
   name = "Madison Solarana"
