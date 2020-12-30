@@ -1,13 +1,15 @@
 ---
 title: About Me
-subtitle: ""
-date: 2018-01-01T00:00:00-06:00
+layout: "about"
 ---
 
-Hi! I'm Madison and I'm a software engineer. I currently work on:
+Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system administration. 
 
-* iOS Apps
-* Mac System Administration 
+### Socials
+
+* [Twitter](https://twitter.com/madisonsolarana)
+* [GitHub](https://github.com/madsolar8582)
+* [LinkedIn](https://linkedin.com/in/madisonsolarana)
 
 ### My Open Source Projects
 

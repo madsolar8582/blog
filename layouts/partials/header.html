@@ -1,83 +1,53 @@
 <!DOCTYPE html>
-<html{{ if .Site.Params.opengraph }} prefix="og: http://ogp.me/ns#"{{ end }}>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>{{ .Title }} &middot; {{ .Site.Author.name }}</title>
-        <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-        <meta name="HandheldFriendly" content="True">
-        <meta name="MobileOptimized" content="320">
-        {{ .Hugo.Generator }}
-        <meta name="robots" content="index,follow">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        {{ if .Site.Params.opengraph }}{{ partial "opengraph.html" . }}{{ end }}
-        <link rel="preload" href="{{ .Site.BaseURL }}dist/styles.css" as="style">
-        <link rel="stylesheet" href="{{ .Site.BaseURL }}dist/styles.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-        <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "20210f63d27245fea8a4bc4a5a72cae3"}'></script>
-        {{ if .RSSLink }}
-            <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml">
-        {{ end }}
-        {{ partial "extra-in-head.html" . }}
-    </head>
-    <body>
-        {{ template "_internal/google_analytics.html" . }}
-
-        <div id="wrapper">
-            <header class="site-header">
-                <div class="container">
-                    <div class="site-title-wrapper">
-                        {{ with .Site.Params.logo }}
-                            <a class="site-logo" title="{{ .Title }}" href="{{ .Site.BaseURL }}">
-                                <img src="{{ . }}" alt="{{ .Title }}" />
-                            </a>
-                        {{ else }}
-                            <h1 class="site-title">
-                                <a title="{{ .Site.Title }}" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-                            </h1>
-                        {{ end }}
-                        <a class="button-square" href="{{ .Site.BaseURL }}index.xml"><i class="fa fa-rss"></i></a>
-                        {{ with .Site.Params.twitter }}
-                            <a class="button-square button-social hint--top" data-hint="Twitter" title="Twitter" href="{{ . }}" target="_blank">
-                                <i class="fa fa-twitter"></i>
-                            </a>
-                        {{ end }}
-                        {{ with .Site.Params.gitlab }}
-                            <a class="button-square button-social hint--top" data-hint="Gitlab" title="Gitlab" href="{{ . }}">
-                                <i class="fa fa-gitlab"></i>
-                            </a>
-                        {{ end }}
-                        {{ with .Site.Params.github }}
-                            <a class="button-square button-social hint--top" data-hint="Github" title="Github" href="{{ . }}" target="_blank">
-                                <i class="fa fa-github-alt"></i>
-                            </a>
-                        {{ end }}
-                        {{ with .Site.Params.stackoverflow }}
-                            <a class="button-square button-social hint--top" data-hint="Stack Overflow" title="Stack Overflow" href="{{ . }}">
-                                <i class="fa fa-stack-overflow"></i>
-                            </a>
-                        {{ end }}
-                        {{ with .Site.Params.linkedin }}
-                            <a class="button-square button-social hint--top" data-hint="LinkedIn" title="LinkedIn" href="{{ . }}" target="_blank">
-                                <i class="fa fa-linkedin"></i>
-                            </a>
-                        {{ end }}
-                        {{ with .Site.Params.gplus }}
-                            <a class="button-square button-social hint--top" data-hint="Google+" title="Google+" href="{{ . }}">
-                                <i class="fa fa-google-plus"></i>
-                            </a>
-                        {{ end }}
-                        {{ with .Site.Params.email }}
-                            <a class="button-square button-social hint--top" data-hint="Email" title="Email" href="mailto:{{ . }}">
-                                <i class="fa fa-envelope"></i>
-                            </a>
-                        {{ end }}
-                    </div>
-
-                    <ul class="site-nav">
-                        {{ partial "navigation.html" . }}
-                    </ul>
-                </div>
-            </header>
-
-            <div id="container">
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <!-- Title -->
+    <title>{{ .Title }}</title>
+    <!-- Meta -->
+    {{- if eq .Kind "page" }}
+    <meta name="description" content="{{ .Summary }}">
+    <meta name="author" content="{{ .Params.Author | default .Site.Author.name }}">
+    {{- else }}
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <meta name="author" content="{{ .Site.Author.name }}">
+    {{- end }}
+    <!-- Styles -->
+    <link href="{{ "/css/style.min.css" | absURL }}" rel="stylesheet">
+    <!-- Scripts -->
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "20210f63d27245fea8a4bc4a5a72cae3"}'></script>
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | absURL }}">
+    <link rel="icon" href="{{ "favicon.ico" | absURL }}">
+    <!-- Generator -->
+    {{- hugo.Generator }}
+    <meta name="robots" content="index,follow">
+    <!-- RSS -->
+    {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
+  </head>
+  <body class="{{ if eq .Kind `page` }}single{{ else }}list{{ if .IsHome }}home{{ end }}{{ end }}">
+    <header class="header">
+      <nav class="nav">
+        {{- if .IsHome }}
+        <h1 class="logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></h1>
+        {{- else }}
+        <p class="logo"><a href="{{ "" | absURL }}">{{ .Site.Title }}</a></p>
+        {{- end }}
+        {{- if .Site.Menus.main }}
+        <ul class="menu">
+          {{- range .Site.Menus.main }}
+          <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{- end }}
+        </ul>
+        {{- end }}
+      </nav>
+    </header>
+    <main class="main">

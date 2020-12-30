@@ -1,38 +1,13 @@
 baseURL = "https://msolarana.netlify.app/"
-title = "Home"
 languageCode = "en-us"
-theme = "ghostwriter"
-copyright = "Madison Solarana"
-pygmentsCodefences = true
-pygmentsUseClasses = true
-
-[Privacy]
-
-[Privacy.disqus]
-  disable = true
-
-[Privacy.googleAnalytics]
-  anonymizeIP = true
-  respectDoNotTrack = true
-  useSessionStorage = false
-
-[Params]
-  intro = true
-  headline = "Madison's Blog"
-  description = "A collection of ramblings, thoughts, and ideas"
-  dateFormat = "Monday, January 2, 2006"
-  github = "https://github.com/madsolar8582"
-  linkedin = "https://linkedin.com/in/madisonsolarana"
-  twitter = "https://twitter.com/madisonsolarana"
-  opengraph = false
-  shareTwitter = true
-  shareFacebook = true
-  shareGooglePlus = false
-  shareLinkedIn = true
-  shareReddit = true
+theme = "paper"
+title = "Madison's Blog"
 
 [Author]
   name = "Madison Solarana"
+
+[Params]
+  description = "A collection of ramblings, thoughts, and ideas"
 
 [Taxonomies]
   tag = "tags"
@@ -40,17 +15,18 @@ pygmentsUseClasses = true
 [Permalinks]
   post = "/:year/:month/:day/:title/"
 
-[[menu.main]]
-  name = "Blog"
-  url = "/"
-  weight = 1
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 1
 
-[[menu.main]]
-  name = "About"
-  url = "/page/about/"
-  weight = 2
+  [[menu.main]]
+    name = "Archives"
+    url = "/page/archives/"
+    weight = 2
 
-[[menu.main]]
-  name = "Archives"
-  url = "/page/archives/"
-  weight = 3
+[markup]
+  [markup.highlight]
+    style = "base16-snazzy"
+    tabWidth = 2

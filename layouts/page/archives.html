@@ -1,11 +1,9 @@
-{{ partial "header.html" . }}
+{{- partial "header.html" . }}
 
 <div class="container">
   <article class="post-container">
-    {{ partial "page-header.html" . }}
-
-    <div class="inner">
-        {{ range (.Site.RegularPages.GroupByDate "2006") }}
+    <div class="post-content">
+        {{ range (where .Site.RegularPages "Type" "in" "posts").GroupByDate "2006" }}
             <h2>{{ .Key }}</h2>
             <ul class="archive-list">
                 {{ range (where .Pages "Type" "post") }}
@@ -21,4 +19,4 @@
   </article>
 </div>
 
-{{ partial "footer.html" . }}
+{{- partial "footer.html" . }}
