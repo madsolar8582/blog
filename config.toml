@@ -27,6 +27,11 @@ pygmentsUseClasses = true
     url = "/page/archives/"
     weight = 2
 
+  [[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 3
+
 [markup]
   [markup.highlight]
     style = "base16-snazzy"
