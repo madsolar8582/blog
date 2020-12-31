@@ -16,6 +16,8 @@
     <meta name="description" content="{{ .Site.Params.description }}">
     <meta name="author" content="{{ .Site.Author.name }}">
     {{- end }}
+    <meta name="robots" content="index,follow" />
+    <meta name="google-site-verification" content="GNxQHN-2_NK-DTVRZxQeVrgANDX6pMn-Re876xlDPkk" />
     <!-- Styles -->
     <link href="{{ "/css/style.min.css" | absURL }}" rel="stylesheet">
     <!-- Scripts -->
@@ -25,7 +27,6 @@
     <link rel="icon" href="{{ "favicon.ico" | absURL }}">
     <!-- Generator -->
     {{- hugo.Generator }}
-    <meta name="robots" content="index,follow">
     <!-- RSS -->
     {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
