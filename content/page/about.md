@@ -23,4 +23,5 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 * Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
 * Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs by Matt Galloway
 * NSHipster: Obscure Topics in Cocoa and Objective-C by Mattt Thompson
+* Peopleware: Productive Projects and Teams by Tom DeMarco & Timothy Lister
 * Programming in Objective-C by Stephen G. Kochan 
