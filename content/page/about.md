@@ -12,10 +12,6 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 * [GitHub](https://github.com/madsolar8582)
 * [LinkedIn](https://linkedin.com/in/madisonsolarana)
 
-### My Open Source Projects
-
-* [SLRNetworkMonitor](https://github.com/madsolar8582/SLRNetworkMonitor)
-
 ### Books I've Read
 
 * Advanced Apple Debugging & Reverse Engineering by Derek Selander
@@ -24,4 +20,9 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 * Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs by Matt Galloway
 * NSHipster: Obscure Topics in Cocoa and Objective-C by Mattt Thompson
 * Peopleware: Productive Projects and Teams by Tom DeMarco & Timothy Lister
-* Programming in Objective-C by Stephen G. Kochan 
+* Programming in Objective-C by Stephen G. Kochan
+* The Effective Engineer by Edmond Lau 
+
+### My Open Source Projects
+
+* [SLRNetworkMonitor](https://github.com/madsolar8582/SLRNetworkMonitor)
