@@ -22,7 +22,8 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 * Peopleware: Productive Projects and Teams by Tom DeMarco & Timothy Lister
 * Programming in Objective-C by Stephen G. Kochan
 * The Effective Engineer by Edmond Lau 
+* The Pragmatic Programmer by Andrew Hunt & David Thomas
 
-### My Open Source Projects
+### Open Source Projects
 
 * [SLRNetworkMonitor](https://github.com/madsolar8582/SLRNetworkMonitor)
