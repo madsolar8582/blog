@@ -30,7 +30,7 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 * [iWoz: Computer Geek to Cult Icon](https://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
 * [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
 
-#### Software
+#### Software & Engineering
 
 * [Advanced Apple Debugging & Reverse Engineering](https://www.goodreads.com/book/show/35514420-advanced-apple-debugging-reverse-engineering) by Derek Selander
 * [CFHipsterRef: Low-Level Programming on iOS and Mac OS X](https://www.goodreads.com/book/show/22403482-cfhipsterref) by Mattt Thompson
@@ -45,7 +45,9 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 * [Programming in Objective-C](https://www.goodreads.com/book/show/120638.Programming_in_Objective_C) by Stephen G. Kochan
 * [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) by Martin Fowler
 * [Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills) by John Sonmez
+* [Software Architecture in Practice](https://www.goodreads.com/book/show/14786083-software-architecture-in-practice) by Len Bass, Paul Clements, & Rick Kazman
 * [Software Estimation Without Guessing: Effective Planning in an Imperfect World](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing) by George Dinwiddie
+* [Staff Engineer: Leadership Beyond the Management Track](https://www.goodreads.com/book/show/56481725-staff-engineer) by Will Larson
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert Martin
 * [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.goodreads.com/book/show/25238425-the-effective-engineer) by Edmond Lau 
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt & David Thomas
