@@ -24,14 +24,19 @@ paginate = 5
     weight = 1
 
   [[menu.main]]
+    name = "Bookshelf"
+    url = "page/bookshelf"
+    weight = 2
+
+  [[menu.main]]
     name = "Archives"
     url = "/page/archives/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "RSS"
     url = "/index.xml"
-    weight = 3
+    weight = 4
 
 [markup]
   [markup.highlight]
