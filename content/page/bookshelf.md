@@ -1,10 +1,10 @@
 ---
-title: Bookshelf
+title: "Books I've Read
 layout: "about"
 unlisted: true
 ---
 
-## Business & Leadership
+### Business & Leadership
 
 * [7 Rules for Positive, Productive Change: Micro Shifts, Macro Results](https://www.goodreads.com/book/show/43999078-7-rules-for-positive-productive-change) by Esther Derby
 * [Influencer: The New Science of Leading Change](https://www.goodreads.com/book/show/16189544-influencer) by Joseph Grenny, Kerry Patterson, David Maxfield, Ron McMillan, & Al Switzler
@@ -12,7 +12,7 @@ unlisted: true
 * [StrengthsFinder 2.0](https://www.goodreads.com/book/show/8123742-strengthsfinder-2-0) by Tom Rath
   * Top 5: [Learner](https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx), [Arranger](https://www.gallup.com/cliftonstrengths/en/252161/arranger-theme.aspx), [Restorative](https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx), [Achiever](https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx), & [Analytical](https://www.gallup.com/cliftonstrengths/en/252152/analytical-theme.aspx)
 
-## Design
+### Design
 
 * [100 Things Every Designer Needs to Know About People](https://www.goodreads.com/book/show/54833271-100-things-every-designer-needs-to-know-about-people) by Susan Weinschenk
 * [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](https://www.goodreads.com/book/show/40965884-creative-selection) by Ken Kocienda
@@ -20,18 +20,18 @@ unlisted: true
 * [The Design of Everyday Things](https://www.goodreads.com/book/show/17290807-the-design-of-everyday-things) by Don Norman
 * [User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play](https://www.goodreads.com/book/show/41940285-user-friendly) by Cliff Kuang & Robert Fabricant
 
-## Non-Fiction
+### Non-Fiction
 
 * [Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.goodreads.com/book/show/20445768-inside-apple) by Adam Lashinsky
 * [iWoz: Computer Geek to Cult Icon](https://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
 * [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
 
-## Self Improvement
+### Self Improvement
 
 * [Emotional Intelligence 2.0](https://www.goodreads.com/book/show/6486483-emotional-intelligence-2-0) by Travis Bradberry & Jean Greaves
 * [People Skills for Analytical Thinkers: Boost Your Communication and Advance Your Career - and Life](https://www.goodreads.com/book/show/56306819-people-skills-for-analytical-thinkers) by Gilbert Eijkelenboom
 
-## Software & Engineering
+### Software & Engineering
 
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
 * [Advanced Apple Debugging & Reverse Engineering](https://www.goodreads.com/book/show/35514420-advanced-apple-debugging-reverse-engineering) by Derek Selander
