@@ -25,7 +25,7 @@ paginate = 5
 
   [[menu.main]]
     name = "Bookshelf"
-    url = "/page/bookshelf"
+    url = "/page/bookshelf/"
     weight = 2
 
   [[menu.main]]
