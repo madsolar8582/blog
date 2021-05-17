@@ -9,9 +9,9 @@ When creating and distributing a binary, a [dSYM](https://developer.apple.com/do
 
 However, the use of this option is not straightforward. The first gotcha is that the path passed to the flag must be an absolute path (not relative). This is unfortunately not documented in the help output. This is ok for dSYMs as you always know where they are (e.g. `"$(pwd -P)"/build/artifacts/iOS.xcarchive/dSYMs/MyFramework.framework.dSYM`), BCSymbolMaps are a different story as they contain a random UUID for a name. Therefore, you need use `find` (or another solution) to get a list of the files to add.
 
-The second thing to note is that you need to use the `-debug-symbols` option multiple times to add all of the dSYMs and BCSymbolMaps to the generated XCFramework. But, they need to be associated with the right target. This means that after passing `-framework`, you need to pass all of the debug symbols associated with that particular input as the command does not know how to associate those symbols to the right target; i.e. you can shove them all in as the last argument after passing in all of the framework inputs. If you don't do this, the debug symbols are added to the wrong output or the command errors out with a duplicate file name error for the dSYMs. 
+The second thing to note is that you need to use the `-debug-symbols` option multiple times to add all of the dSYMs and BCSymbolMaps to the generated XCFramework. But, they need to be associated with the right target. This means that after passing `-framework`, you need to pass all of the debug symbols associated with that particular input as the command does not know how to associate those symbols to the right target; i.e. you can't shove them all in as the last argument after passing in all of the framework inputs. If you don't do this, the debug symbols are added to the wrong output or the command errors out with a duplicate file name error for the dSYMs. 
 
-Putting this altogether, the process for creating an XCFramework for iOS (as an example) looks like:
+Putting this altogether, the process for creating an XCFramework for iOS (as an [example](https://github.com/madsolar8582/SLRNetworkMonitor/blob/e415fc6399aa164ab8b147a6476630b2418d1d75/release.sh#L73)) looks like:
 
 1. Archive the framework for devices.
 2. Archive the framework for simulators.
