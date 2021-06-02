@@ -7,10 +7,27 @@ unlisted: true
 ### Business & Leadership
 
 * [7 Rules for Positive, Productive Change: Micro Shifts, Macro Results](https://www.goodreads.com/book/show/43999078-7-rules-for-positive-productive-change) by Esther Derby
+* [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren, Jez Humble, & Gene Kim
+* [Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior](https://www.goodreads.com/book/show/17118702-crucial-accountability) by Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, & Al Switzler
+* [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/11406473-crucial-conversations) by Kerry Patterson, Joseph Grenny, Ron McMillan, & Al Switzler
+* [Digital Body Language: How to Build Trust and Connection, No Matter the Distance](https://www.goodreads.com/book/show/54860473-digital-body-language) by Erica Dhawan
+* [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/book/show/18114277-give-and-take) by Adam Grant
+* [How Full Is Your Bucket?](https://www.goodreads.com/book/show/49266.How_Full_Is_Your_Bucket_) by Tom Rath & Donald O. Clifton
+* [Inclusify: The Power of Uniqueness and Belonging to Build Innovative Teams](https://www.goodreads.com/book/show/52167185-inclusify) by Stefanie K. Johnson
 * [Influencer: The New Science of Leading Change](https://www.goodreads.com/book/show/16189544-influencer) by Joseph Grenny, Kerry Patterson, David Maxfield, Ron McMillan, & Al Switzler
+* [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan
+* [Leaders Eat Last: Why Some Teams Pull Together and Others Don’t](https://www.goodreads.com/book/show/25716721-leaders-eat-last) by Simon Sinek
+* [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/book/show/42774083-leadership-is-language) by L. David Marquet
 * [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware) by Tom DeMarco & Timothy Lister
+* [Primal Leadership: Unleashing the Power of Emotional Intelligence](https://www.goodreads.com/book/show/17707825-primal-leadership-with-a-new-preface-by-the-authors) by Daniel Goleman, Richard Boyatzis, & Anne McKee
+* [Radical Candor: Be a Kick-A$$ Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/43263498-radical-candor) by Kim Scott
+* [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/book/show/13490701-start-with-why) by Simon Sinek
+* [Strengths Based Leadership: Great Leaders, Teams, and Why People Follow](https://www.goodreads.com/book/show/5973885-strengths-based-leadership) by Tom Rath & Barry Conchie
 * [StrengthsFinder 2.0](https://www.goodreads.com/book/show/8123742-strengthsfinder-2-0) by Tom Rath
   * Top 5: [Learner](https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx), [Arranger](https://www.gallup.com/cliftonstrengths/en/252161/arranger-theme.aspx), [Restorative](https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx), [Achiever](https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx), & [Analytical](https://www.gallup.com/cliftonstrengths/en/252152/analytical-theme.aspx)
+* [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
+* [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
+* [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/9723317-tribal-leadership) by Dave Logan, John King, & Halee Fischer-Wright
 
 ### Design
 
@@ -30,6 +47,7 @@ unlisted: true
 
 * [Emotional Intelligence 2.0](https://www.goodreads.com/book/show/6486483-emotional-intelligence-2-0) by Travis Bradberry & Jean Greaves
 * [People Skills for Analytical Thinkers: Boost Your Communication and Advance Your Career - and Life](https://www.goodreads.com/book/show/56306819-people-skills-for-analytical-thinkers) by Gilbert Eijkelenboom
+* [Wellbeing: The Five Essential Elements](https://www.goodreads.com/book/show/8063945-wellbeing) by Tom Rath & James K. Harter
 
 ### Software & Engineering
 
