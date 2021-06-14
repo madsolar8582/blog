@@ -27,6 +27,7 @@ unlisted: true
   * Top 5: [Learner](https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx), [Arranger](https://www.gallup.com/cliftonstrengths/en/252161/arranger-theme.aspx), [Restorative](https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx), [Achiever](https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx), & [Analytical](https://www.gallup.com/cliftonstrengths/en/252152/analytical-theme.aspx)
 * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
 * [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
 * [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/9723317-tribal-leadership) by Dave Logan, John King, & Halee Fischer-Wright
 
 ### Design
