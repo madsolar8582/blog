@@ -40,9 +40,13 @@ unlisted: true
 
 ### Non-Fiction
 
+* [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.goodreads.com/book/show/36288143-brotopia) by Emily Chang
+* [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
 * [Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.goodreads.com/book/show/20445768-inside-apple) by Adam Lashinsky
 * [iWoz: Computer Geek to Cult Icon](https://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
+* [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology) by Ruha Benjamin
 * [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
+* [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.goodreads.com/book/show/38212110-technically-wrong) by Sara Wachter-Boettcher
 
 ### Self Improvement
 
@@ -62,11 +66,14 @@ unlisted: true
 * [Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs](https://www.goodreads.com/book/show/17297099-effective-objective-c-2-0) by Matt Galloway
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards & Neal Ford
 * [iPhone Programming: The Big Nerd Ranch Guide](https://www.goodreads.com/book/show/8294275-iphone-programming) by Joe Conway & Aaron Hillegass
+* [Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)](https://www.goodreads.com/book/show/54716655-kill-it-with-fire) by Marianne Bellotti
 * [NSHipster: Obscure Topics in Cocoa and Objective-C](https://www.goodreads.com/book/show/19262999-nshipster) by Mattt Thompson
 * [Programming in Objective-C](https://www.goodreads.com/book/show/120638.Programming_in_Objective_C) by Stephen G. Kochan
 * [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) by Martin Fowler
+* [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
 * [Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills) by John Sonmez
 * [Software Architecture in Practice](https://www.goodreads.com/book/show/14786083-software-architecture-in-practice) by Len Bass, Paul Clements, & Rick Kazman
+* [Software Engineering at Google: Lessons Learned from Programming Over Time]() by Titus Winters, Tom Manshreck, & Hyrum Wright
 * [Software Estimation Without Guessing: Effective Planning in an Imperfect World](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing) by George Dinwiddie
 * [Staff Engineer: Leadership Beyond the Management Track](https://www.goodreads.com/book/show/56481725-staff-engineer) by Will Larson
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert Martin
@@ -74,3 +81,4 @@ unlisted: true
 * [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.goodreads.com/book/show/6399113-the-passionate-programmer) by Chad Fowler
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt & David Thomas
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael Feathers
+* [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
