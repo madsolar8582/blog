@@ -11,6 +11,7 @@ unlisted: true
 * [Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior](https://www.goodreads.com/book/show/17118702-crucial-accountability) by Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, & Al Switzler
 * [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/11406473-crucial-conversations) by Kerry Patterson, Joseph Grenny, Ron McMillan, & Al Switzler
 * [Digital Body Language: How to Build Trust and Connection, No Matter the Distance](https://www.goodreads.com/book/show/54860473-digital-body-language) by Erica Dhawan
+* [Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time](https://www.goodreads.com/book/show/31579916-fierce-conversations) by Susan Scott
 * [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/book/show/18114277-give-and-take) by Adam Grant
 * [How Full Is Your Bucket?](https://www.goodreads.com/book/show/49266.How_Full_Is_Your_Bucket_) by Tom Rath & Donald O. Clifton
 * [Inclusify: The Power of Uniqueness and Belonging to Build Innovative Teams](https://www.goodreads.com/book/show/52167185-inclusify) by Stefanie K. Johnson
@@ -18,6 +19,8 @@ unlisted: true
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan
 * [Leaders Eat Last: Why Some Teams Pull Together and Others Don’t](https://www.goodreads.com/book/show/25716721-leaders-eat-last) by Simon Sinek
 * [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/book/show/42774083-leadership-is-language) by L. David Marquet
+* [Measure What Matters: OKRs - The Simple Idea that Drives 10x Growth](https://www.goodreads.com/book/show/36388445-measure-what-matters) by John Doerr
+* [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.goodreads.com/book/show/30736658-never-split-the-difference) by Chris Voss
 * [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware) by Tom DeMarco & Timothy Lister
 * [Primal Leadership: Unleashing the Power of Emotional Intelligence](https://www.goodreads.com/book/show/17707825-primal-leadership-with-a-new-preface-by-the-authors) by Daniel Goleman, Richard Boyatzis, & Anne McKee
 * [Radical Candor: Be a Kick-A$$ Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/43263498-radical-candor) by Kim Scott
@@ -25,6 +28,7 @@ unlisted: true
 * [Strengths Based Leadership: Great Leaders, Teams, and Why People Follow](https://www.goodreads.com/book/show/5973885-strengths-based-leadership) by Tom Rath & Barry Conchie
 * [StrengthsFinder 2.0](https://www.goodreads.com/book/show/8123742-strengthsfinder-2-0) by Tom Rath
   * Top 5: [Learner](https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx), [Arranger](https://www.gallup.com/cliftonstrengths/en/252161/arranger-theme.aspx), [Restorative](https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx), [Achiever](https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx), & [Analytical](https://www.gallup.com/cliftonstrengths/en/252152/analytical-theme.aspx)
+* [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/book/show/22571761-thanks-for-the-feedback) by Douglas Stone & Sheila Heen
 * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
 * [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
@@ -48,10 +52,20 @@ unlisted: true
 * [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
 * [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.goodreads.com/book/show/38212110-technically-wrong) by Sara Wachter-Boettcher
 
+### Psychology
+
+* [Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts](https://www.goodreads.com/book/show/54799197-mistakes-were-made-but-not-by-me) by Carol Tavris & Elliot Aronson
+* [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/book/show/55539565-think-again) by Adam Grant
+* [Thinking in Systems: A Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems) by Donella H. Meadows
+* [Thinking, Fast and Slow](https://www.goodreads.com/book/show/13539043-thinking-fast-and-slow) by Daniel Kahneman
+
 ### Self Improvement
 
 * [Emotional Intelligence 2.0](https://www.goodreads.com/book/show/6486483-emotional-intelligence-2-0) by Travis Bradberry & Jean Greaves
+* [How to Listen with Intention: The Foundation of True Connection, Communication, and Relationships](https://www.goodreads.com/book/show/54082517-how-to-listen-with-intention) by Patrick King
 * [People Skills for Analytical Thinkers: Boost Your Communication and Advance Your Career - and Life](https://www.goodreads.com/book/show/56306819-people-skills-for-analytical-thinkers) by Gilbert Eijkelenboom
+* [Thank You for Arguing: What Aristotle, Lincoln, and Homer Simpson Can Teach Us about the Art of Persuasion](https://www.goodreads.com/book/show/32672702-thank-you-for-arguing) by Jay Heinrichs
+* [The Tools of Argument: How the Best Lawyers Think, Argue, and Win](https://www.goodreads.com/book/show/18258324-the-tools-of-argument) by Joel P. Trachtman
 * [Wellbeing: The Five Essential Elements](https://www.goodreads.com/book/show/8063945-wellbeing) by Tom Rath & James K. Harter
 
 ### Software & Engineering
@@ -73,7 +87,7 @@ unlisted: true
 * [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
 * [Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills) by John Sonmez
 * [Software Architecture in Practice](https://www.goodreads.com/book/show/14786083-software-architecture-in-practice) by Len Bass, Paul Clements, & Rick Kazman
-* [Software Engineering at Google: Lessons Learned from Programming Over Time]() by Titus Winters, Tom Manshreck, & Hyrum Wright
+* [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/58511355-software-engineering-at-google) by Titus Winters, Tom Manshreck, & Hyrum Wright
 * [Software Estimation Without Guessing: Effective Planning in an Imperfect World](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing) by George Dinwiddie
 * [Staff Engineer: Leadership Beyond the Management Track](https://www.goodreads.com/book/show/56481725-staff-engineer) by Will Larson
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert Martin
