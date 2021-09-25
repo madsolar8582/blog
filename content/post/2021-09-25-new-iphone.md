@@ -1,0 +1,17 @@
+---
+title: "New iPhone"
+date: 2021-09-25T06:45:00-05:00
+tags: ["apple", "iPhone"]
+---
+
+Yesterday was the launch of the iPhone 13 and I was participating in it as my last upgrade was 3 years ago. The preorder process went smoothly since the Apple Store app lets you pre-preorder, so I was able to get the model and color I wanted at 7:02am on 9/17 and it arrived in the afternoon on 9/24. Using the [Quick Start](https://support.apple.com/en-us/HT210216) (device-to-device) transfer, I was able to get everything moved over in about 15 minutes. The last step is carrier activation and that is where my problems started.
+
+My previous phone had a physical SIM, so this was the first time I was going to be using an [eSIM](https://support.apple.com/en-us/HT209096). During Quick Start, it asked for my phone number and successfully contacted my carrier (I also pre-registered the device with my carrier during pre-order). However, after rebooting once the data migration was complete, it could not successfully activate. After waiting for a few hours, I went to my carrier's store since I was without service. The estimated wait time for assistance was 30 minutes, but I ended up waiting for an hour. Tangent: in the old days, sales and technical support would be split so that people like me needing help could get it quickly. That no longer appears to be the case as all of the customers in front of me were buying phones, cases, and setting up transfers, etc.
+
+Once I did get help, I found out what was blocking my activation. For some reason, my carrier's system thought that there was already a pending activation on my line from a 4G device. That's weird because the iPhone 13 is a 5G device. The employee was unable to remove that pending activation from either the first eSIM or second eSIM on my phone (the iPhone 13 is the first [dual eSIM device](https://support.apple.com/en-us/HT209044)), so we activated a physical SIM and iOS attempted to activate it as a second line. I had to cancel out of that and trigger the [Reset Network Settings](https://support.apple.com/en-us/HT201415) workflow to get the phone to activate a singular line. This finally updated my carrier's system to show the new device, but the system showed the primary eSIM as the identifier instead of the physical one and iOS shows the second eSIM as being active. Both myself and the employee were mystified as if that were truly correct, I wouldn't have service (but I did). As a last ditch effort, I removed the physical SIM and tried to active the primary eSIM again since that was showing in the system and it failed with the original problem. Since it was really late in the evening, I went back to the physical SIM and went home.
+
+Looking online, it seems people are having issues with the iPhone 13 (ProMotion, Apple Watch, Wi-Fi), so this seems to stem from iOS 15.0 not being quite ready and/or the normal Apple -> Carrier problems since my activation problems were supposed to have been non-existent by pre-registering the device before it shipped. I suspect some of the bigger issues will be resolved in the next week or two with patch releases and that most of the other problems will be resolved with iOS 15.1 late next month (with all of the other features landing in 15.2 in November/December). Hopefully the next phone purchase I make goes smoothly.
+
+---
+
+For some reason, Apple also shipped these devices with pre-release versions of iOS 15. Mine came with 19A345 instead of 19A346 and others were reporting 19A344. Not a good look for Apple.
