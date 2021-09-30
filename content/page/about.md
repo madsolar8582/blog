@@ -16,3 +16,4 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 
 * [SLRNetworkMonitor](https://github.com/madsolar8582/SLRNetworkMonitor)
 * [SLRDNSConfigurator](https://github.com/madsolar8582/SLRDNSConfigurator)
+* [SLRMDMConfig](https://github.com/madsolar8582/SLRMDMConfig)
