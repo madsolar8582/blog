@@ -72,13 +72,21 @@ unlisted: true
 
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
 * [Advanced Apple Debugging & Reverse Engineering](https://www.goodreads.com/book/show/35514420-advanced-apple-debugging-reverse-engineering) by Derek Selander
+* [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.goodreads.com/book/show/51163447-building-event-driven-microservices) by Adam Bellemare
+* [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/38824352-building-microservices) by Sam Newman
+* [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.goodreads.com/book/show/52362720-building-secure-and-reliable-systems) by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, & Adam Stubblefield
 * [CFHipsterRef: Low-Level Programming on iOS and Mac OS X](https://www.goodreads.com/book/show/22403482-cfhipsterref) by Mattt Thompson
 * [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/book/show/18043011-clean-architecture) by Robert Martin
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by Robert Martin
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code) by Charles Petzold
+* [Continuous API Management: Making the Right Decisions in an Evolving Landscape](https://www.goodreads.com/book/show/57871958-continuous-api-management) by Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, & Mike Amundsen
+* [Design Patterns for Cloud Native Applications: Patterns in Practice Using APIs, Data, Events, and Streams](https://www.goodreads.com/book/show/56642541-design-patterns-for-cloud-native-applications) by Kasun Indrasiri & Sriskandarajah Suhothayan
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns) by Erich Gamma, Richard Helm, Ralph Johnson, & John Vlissides
+* [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23466395-designing-data-intensive-applications) by Martin Kleppmann
+* [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.goodreads.com/book/show/58278048-docs-for-developers) by Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Núñez, & Heidi Waterhouse
 * [Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs](https://www.goodreads.com/book/show/17297099-effective-objective-c-2-0) by Matt Galloway
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards & Neal Ford
+* [Infrastructure as Code: Dynamic Systems for the Cloud Age](https://www.goodreads.com/book/show/53481701-infrastructure-as-code) by Kief Morris
 * [iPhone Programming: The Big Nerd Ranch Guide](https://www.goodreads.com/book/show/8294275-iphone-programming) by Joe Conway & Aaron Hillegass
 * [Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)](https://www.goodreads.com/book/show/54716655-kill-it-with-fire) by Marianne Bellotti
 * [NSHipster: Obscure Topics in Cocoa and Objective-C](https://www.goodreads.com/book/show/19262999-nshipster) by Mattt Thompson
