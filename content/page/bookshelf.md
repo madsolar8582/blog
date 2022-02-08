@@ -4,10 +4,13 @@ layout: "about"
 unlisted: true
 ---
 
+Below are various books that I have read divided into primary categories.
+
 ### Business & Leadership
 
 * [7 Rules for Positive, Productive Change: Micro Shifts, Macro Results](https://www.goodreads.com/book/show/43999078-7-rules-for-positive-productive-change) by Esther Derby
 * [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren, Jez Humble, & Gene Kim
+* [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.goodreads.com/book/show/18085530-crossing-the-chasm) by Geoffrey A. Moore
 * [Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior](https://www.goodreads.com/book/show/17118702-crucial-accountability) by Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, & Al Switzler
 * [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/11406473-crucial-conversations) by Kerry Patterson, Joseph Grenny, Ron McMillan, & Al Switzler
 * [Digital Body Language: How to Build Trust and Connection, No Matter the Distance](https://www.goodreads.com/book/show/54860473-digital-body-language) by Erica Dhawan
@@ -54,6 +57,7 @@ unlisted: true
 
 ### Psychology
 
+* [Clean Language: Revealing Metaphors and Opening Minds](https://www.goodreads.com/book/show/5948619-clean-language) by Wendy Sullivan and Judy Rees
 * [Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts](https://www.goodreads.com/book/show/54799197-mistakes-were-made-but-not-by-me) by Carol Tavris & Elliot Aronson
 * [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/book/show/55539565-think-again) by Adam Grant
 * [Thinking in Systems: A Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems) by Donella H. Meadows
@@ -70,9 +74,11 @@ unlisted: true
 
 ### Software & Engineering
 
+* [A Common-Sense Guide to Data Structures and Algorithms](https://www.goodreads.com/book/show/48764406-a-common-sense-guide-to-data-structures-and-algorithms) by Jay Wengrow
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
 * [Advanced Apple Debugging & Reverse Engineering](https://www.goodreads.com/book/show/35514420-advanced-apple-debugging-reverse-engineering) by Derek Selander
 * [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.goodreads.com/book/show/51163447-building-event-driven-microservices) by Adam Bellemare
+* [Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers](https://www.goodreads.com/book/show/59656687-building-micro-frontends) by Luca Mezzalira
 * [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/38824352-building-microservices) by Sam Newman
 * [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.goodreads.com/book/show/52362720-building-secure-and-reliable-systems) by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, & Adam Stubblefield
 * [CFHipsterRef: Low-Level Programming on iOS and Mac OS X](https://www.goodreads.com/book/show/22403482-cfhipsterref) by Mattt Thompson
@@ -95,6 +101,7 @@ unlisted: true
 * [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
 * [Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills) by John Sonmez
 * [Software Architecture in Practice](https://www.goodreads.com/book/show/14786083-software-architecture-in-practice) by Len Bass, Paul Clements, & Rick Kazman
+* [Software Development Pearls: Lessons from Fifty Years of Software Experience](https://www.goodreads.com/book/show/58064227-software-development-pearls) by Karl Wiegers
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/58511355-software-engineering-at-google) by Titus Winters, Tom Manshreck, & Hyrum Wright
 * [Software Estimation Without Guessing: Effective Planning in an Imperfect World](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing) by George Dinwiddie
 * [Staff Engineer: Leadership Beyond the Management Track](https://www.goodreads.com/book/show/56481725-staff-engineer) by Will Larson
