@@ -1,7 +1,7 @@
 ---
 title: "Goodbye macOS Server"
 subtitle: ""
-date: 2022-04-28T07:45:00-06:00
+date: 2022-04-28T07:45:00-05:00
 tags: ["server", "apple"]
 ---
 
