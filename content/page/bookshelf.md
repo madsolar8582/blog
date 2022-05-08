@@ -4,12 +4,13 @@ layout: "about"
 unlisted: true
 ---
 
-Below are various books that I have read divided into primary categories.
+Below are various books that I have read divided into primary categories (no endorsement implied).
 
 ### Business & Leadership
 
 * [7 Rules for Positive, Productive Change: Micro Shifts, Macro Results](https://www.goodreads.com/book/show/43999078-7-rules-for-positive-productive-change) by Esther Derby
 * [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren, Jez Humble, & Gene Kim
+* [Build: An Unorthodox Guide to Making Things Worth Making](https://www.goodreads.com/book/show/59696349-build) by Tony Fadell
 * [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.goodreads.com/book/show/18085530-crossing-the-chasm) by Geoffrey A. Moore
 * [Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior](https://www.goodreads.com/book/show/17118702-crucial-accountability) by Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, & Al Switzler
 * [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/11406473-crucial-conversations) by Kerry Patterson, Joseph Grenny, Ron McMillan, & Al Switzler
@@ -48,6 +49,7 @@ Below are various books that I have read divided into primary categories.
 ### Non-Fiction
 
 * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.goodreads.com/book/show/36288143-brotopia) by Emily Chang
+* [Disrupting the Game: From the Bronx to the Top of Nintendo](https://www.goodreads.com/book/show/58429316-disrupting-the-game) by Reggie Fils-Aimé
 * [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
 * [Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.goodreads.com/book/show/20445768-inside-apple) by Adam Lashinsky
 * [iWoz: Computer Geek to Cult Icon](https://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak

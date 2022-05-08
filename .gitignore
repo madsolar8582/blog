@@ -25,4 +25,4 @@ Temporary Items
 # Hugo
 
 public/
-
+.hugo_build.lock
