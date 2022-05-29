@@ -34,6 +34,7 @@ Below are various books that I have read divided into primary categories (no end
   * Top 5: [Learner](https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx), [Arranger](https://www.gallup.com/cliftonstrengths/en/252161/arranger-theme.aspx), [Restorative](https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx), [Achiever](https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx), & [Analytical](https://www.gallup.com/cliftonstrengths/en/252152/analytical-theme.aspx)
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/book/show/22571761-thanks-for-the-feedback) by Douglas Stone & Sheila Heen
 * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
+* [The Effective Manager](https://www.goodreads.com/book/show/27316166-the-effective-manager) by Mark Horstman
 * [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
 * [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/9723317-tribal-leadership) by Dave Logan, John King, & Halee Fischer-Wright
@@ -82,6 +83,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.goodreads.com/book/show/51163447-building-event-driven-microservices) by Adam Bellemare
 * [Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers](https://www.goodreads.com/book/show/59656687-building-micro-frontends) by Luca Mezzalira
 * [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/38824352-building-microservices) by Sam Newman
+* [Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.goodreads.com/book/show/57668282-building-mobile-apps-at-scale) by Gergely Orosz
 * [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.goodreads.com/book/show/52362720-building-secure-and-reliable-systems) by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, & Adam Stubblefield
 * [CFHipsterRef: Low-Level Programming on iOS and Mac OS X](https://www.goodreads.com/book/show/22403482-cfhipsterref) by Mattt Thompson
 * [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/book/show/18043011-clean-architecture) by Robert Martin
