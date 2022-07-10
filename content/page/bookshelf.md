@@ -99,6 +99,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Infrastructure as Code: Dynamic Systems for the Cloud Age](https://www.goodreads.com/book/show/53481701-infrastructure-as-code) by Kief Morris
 * [iPhone Programming: The Big Nerd Ranch Guide](https://www.goodreads.com/book/show/8294275-iphone-programming) by Joe Conway & Aaron Hillegass
 * [Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)](https://www.goodreads.com/book/show/54716655-kill-it-with-fire) by Marianne Bellotti
+* [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by Vladik Khononov
 * [NSHipster: Obscure Topics in Cocoa and Objective-C](https://www.goodreads.com/book/show/19262999-nshipster) by Mattt Thompson
 * [Programming in Objective-C](https://www.goodreads.com/book/show/120638.Programming_in_Objective_C) by Stephen G. Kochan
 * [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) by Martin Fowler
