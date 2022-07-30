@@ -49,6 +49,7 @@ Below are various books that I have read divided into primary categories (no end
 
 ### Non-Fiction
 
+* [Androids: The Team That Built the Android Operating System](https://www.goodreads.com/book/show/60203703-androids) by Chet Haase
 * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.goodreads.com/book/show/36288143-brotopia) by Emily Chang
 * [Disrupting the Game: From the Bronx to the Top of Nintendo](https://www.goodreads.com/book/show/58429316-disrupting-the-game) by Reggie Fils-Aimé
 * [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
@@ -95,6 +96,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23466395-designing-data-intensive-applications) by Martin Kleppmann
 * [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.goodreads.com/book/show/58278048-docs-for-developers) by Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Núñez, & Heidi Waterhouse
 * [Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs](https://www.goodreads.com/book/show/17297099-effective-objective-c-2-0) by Matt Galloway
+* [Foundations of Scalable Systems](https://www.goodreads.com/book/show/61046500-foundations-of-scalable-systems) by Ian Gorton
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards & Neal Ford
 * [Infrastructure as Code: Dynamic Systems for the Cloud Age](https://www.goodreads.com/book/show/53481701-infrastructure-as-code) by Kief Morris
 * [iPhone Programming: The Big Nerd Ranch Guide](https://www.goodreads.com/book/show/8294275-iphone-programming) by Joe Conway & Aaron Hillegass
