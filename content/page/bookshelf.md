@@ -10,6 +10,7 @@ Below are various books that I have read divided into primary categories (no end
 
 * [7 Rules for Positive, Productive Change: Micro Shifts, Macro Results](https://www.goodreads.com/book/show/43999078-7-rules-for-positive-productive-change) by Esther Derby
 * [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren, Jez Humble, & Gene Kim
+* [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45308574-an-elegant-puzzle) by Will Larson
 * [Build: An Unorthodox Guide to Making Things Worth Making](https://www.goodreads.com/book/show/59696349-build) by Tony Fadell
 * [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.goodreads.com/book/show/18085530-crossing-the-chasm) by Geoffrey A. Moore
 * [Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior](https://www.goodreads.com/book/show/17118702-crucial-accountability) by Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, & Al Switzler
@@ -116,5 +117,6 @@ Below are various books that I have read divided into primary categories (no end
 * [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.goodreads.com/book/show/25238425-the-effective-engineer) by Edmond Lau
 * [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.goodreads.com/book/show/6399113-the-passionate-programmer) by Chad Fowler
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt & David Thomas
+* [Understanding Distributed Systems: What every developer should know about large distributed applications](https://www.goodreads.com/book/show/60598814-understanding-distributed-systems) by Roberto Vitillo
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael Feathers
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
