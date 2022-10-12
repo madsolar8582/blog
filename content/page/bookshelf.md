@@ -117,6 +117,7 @@ Below are various books that I have read divided into primary categories (no end
 * [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.goodreads.com/book/show/25238425-the-effective-engineer) by Edmond Lau
 * [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.goodreads.com/book/show/6399113-the-passionate-programmer) by Chad Fowler
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt & David Thomas
+* [The Programmer's Brain](https://www.goodreads.com/book/show/57196550-the-programmer-s-brain) by Felienne Hermans
 * [Understanding Distributed Systems: What every developer should know about large distributed applications](https://www.goodreads.com/book/show/60598814-understanding-distributed-systems) by Roberto Vitillo
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael Feathers
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
