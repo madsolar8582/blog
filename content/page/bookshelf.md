@@ -16,6 +16,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior](https://www.goodreads.com/book/show/17118702-crucial-accountability) by Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, & Al Switzler
 * [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/11406473-crucial-conversations) by Kerry Patterson, Joseph Grenny, Ron McMillan, & Al Switzler
 * [Digital Body Language: How to Build Trust and Connection, No Matter the Distance](https://www.goodreads.com/book/show/54860473-digital-body-language) by Erica Dhawan
+* [Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/61069201-engineering-management-for-the-rest-of-us) by Sarah Drasner
 * [Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time](https://www.goodreads.com/book/show/31579916-fierce-conversations) by Susan Scott
 * [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/book/show/18114277-give-and-take) by Adam Grant
 * [How Full Is Your Bucket?](https://www.goodreads.com/book/show/49266.How_Full_Is_Your_Bucket_) by Tom Rath & Donald O. Clifton
@@ -103,6 +104,8 @@ Below are various books that I have read divided into primary categories (no end
 * [iPhone Programming: The Big Nerd Ranch Guide](https://www.goodreads.com/book/show/8294275-iphone-programming) by Joe Conway & Aaron Hillegass
 * [Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)](https://www.goodreads.com/book/show/54716655-kill-it-with-fire) by Marianne Bellotti
 * [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by Vladik Khononov
+* [Mastering API Architecture: Design, Operate, and Evolve API-Based Systems](https://www.goodreads.com/book/show/62995763-mastering-api-architecture) by James Gough, Daniel Bryant, & Matthew Auburn
+* [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/book/show/57345270-modern-software-engineering) by David Farley
 * [NSHipster: Obscure Topics in Cocoa and Objective-C](https://www.goodreads.com/book/show/19262999-nshipster) by Mattt Thompson
 * [Programming in Objective-C](https://www.goodreads.com/book/show/120638.Programming_in_Objective_C) by Stephen G. Kochan
 * [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) by Martin Fowler
