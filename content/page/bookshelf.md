@@ -81,6 +81,7 @@ Below are various books that I have read divided into primary categories (no end
 ### Software & Engineering
 
 * [A Common-Sense Guide to Data Structures and Algorithms](https://www.goodreads.com/book/show/48764406-a-common-sense-guide-to-data-structures-and-algorithms) by Jay Wengrow
+* [API Design Patterns](https://www.goodreads.com/book/show/51192053-api-design-patterns) by JJ Geewax
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
 * [Advanced Apple Debugging & Reverse Engineering](https://www.goodreads.com/book/show/35514420-advanced-apple-debugging-reverse-engineering) by Derek Selander
 * [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.goodreads.com/book/show/51163447-building-event-driven-microservices) by Adam Bellemare
