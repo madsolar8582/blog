@@ -8,7 +8,7 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 
 ### Socials
 
-* [Twitter](https://twitter.com/madisonsolarana)
+* <a rel="me" href="https://mastodon.social/@madisonsolarana">Mastodon</a>
 * [GitHub](https://github.com/madsolar8582)
 * [LinkedIn](https://linkedin.com/in/madisonsolarana)
 
