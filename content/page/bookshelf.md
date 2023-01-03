@@ -10,6 +10,7 @@ Below are various books that I have read divided into primary categories (no end
 
 * [7 Rules for Positive, Productive Change: Micro Shifts, Macro Results](https://www.goodreads.com/book/show/43999078-7-rules-for-positive-productive-change) by Esther Derby
 * [Accelerate: Building and Scaling High Performance Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate) by Nicole Forsgren, Jez Humble, & Gene Kim
+* [Amp It Up: Leading for Hypergrowth by Raising Expectations, Increasing Urgency, and Elevating Intensity](https://www.goodreads.com/book/show/57872444-amp-it-up) by Frank Slootman
 * [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45308574-an-elegant-puzzle) by Will Larson
 * [Build: An Unorthodox Guide to Making Things Worth Making](https://www.goodreads.com/book/show/59696349-build) by Tony Fadell
 * [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.goodreads.com/book/show/18085530-crossing-the-chasm) by Geoffrey A. Moore
@@ -40,6 +41,7 @@ Below are various books that I have read divided into primary categories (no end
 * [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
 * [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/9723317-tribal-leadership) by Dave Logan, John King, & Halee Fischer-Wright
+* [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/book/show/53138083-working-backwards) by Colin Bryar & Bill Carr
 
 ### Design
 
