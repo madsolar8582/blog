@@ -119,6 +119,8 @@ Below are various books that I have read divided into primary categories (no end
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/58511355-software-engineering-at-google) by Titus Winters, Tom Manshreck, & Hyrum Wright
 * [Software Estimation Without Guessing: Effective Planning in an Imperfect World](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing) by George Dinwiddie
 * [Staff Engineer: Leadership Beyond the Management Track](https://www.goodreads.com/book/show/56481725-staff-engineer) by Will Larson
+* [System Design Interview – An Insider's Guide](https://www.goodreads.com/book/show/54617137-system-design-interview) by Alex Xu
+* [System Design Interview – An Insider's Guide: Volume 2](https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide) by Alex Xu & Sahn Lam
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert Martin
 * [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.goodreads.com/book/show/25238425-the-effective-engineer) by Edmond Lau
 * [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.goodreads.com/book/show/6399113-the-passionate-programmer) by Chad Fowler
