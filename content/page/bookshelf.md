@@ -38,6 +38,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/book/show/22571761-thanks-for-the-feedback) by Douglas Stone & Sheila Heen
 * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
 * [The Effective Manager](https://www.goodreads.com/book/show/27316166-the-effective-manager) by Mark Horstman
+* [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni
 * [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
 * [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/9723317-tribal-leadership) by Dave Logan, John King, & Halee Fischer-Wright
@@ -124,8 +125,10 @@ Below are various books that I have read divided into primary categories (no end
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert Martin
 * [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.goodreads.com/book/show/25238425-the-effective-engineer) by Edmond Lau
 * [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.goodreads.com/book/show/6399113-the-passionate-programmer) by Chad Fowler
+* [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/35469581-the-phoenix-project) by Gene Kim, Kevin Behr, & George Spafford
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt & David Thomas
 * [The Programmer's Brain](https://www.goodreads.com/book/show/57196550-the-programmer-s-brain) by Felienne Hermans
+* [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.goodreads.com/book/show/44333183-the-unicorn-project) by Gene Kim
 * [Understanding Distributed Systems: What every developer should know about large distributed applications](https://www.goodreads.com/book/show/60598814-understanding-distributed-systems) by Roberto Vitillo
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael Feathers
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
