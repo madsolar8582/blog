@@ -30,11 +30,13 @@ Below are various books that I have read divided into primary categories (no end
 * [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.goodreads.com/book/show/30736658-never-split-the-difference) by Chris Voss
 * [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware) by Tom DeMarco & Timothy Lister
 * [Primal Leadership: Unleashing the Power of Emotional Intelligence](https://www.goodreads.com/book/show/17707825-primal-leadership-with-a-new-preface-by-the-authors) by Daniel Goleman, Richard Boyatzis, & Anne McKee
+* [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](https://www.goodreads.com/book/show/39211557-project-to-product) by Mik Kersten
 * [Radical Candor: Be a Kick-A$$ Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/43263498-radical-candor) by Kim Scott
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/book/show/13490701-start-with-why) by Simon Sinek
 * [Strengths Based Leadership: Great Leaders, Teams, and Why People Follow](https://www.goodreads.com/book/show/5973885-strengths-based-leadership) by Tom Rath & Barry Conchie
 * [StrengthsFinder 2.0](https://www.goodreads.com/book/show/8123742-strengthsfinder-2-0) by Tom Rath
   * Top 5: [Learner](https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx), [Arranger](https://www.gallup.com/cliftonstrengths/en/252161/arranger-theme.aspx), [Restorative](https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx), [Achiever](https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx), & [Analytical](https://www.gallup.com/cliftonstrengths/en/252152/analytical-theme.aspx)
+* [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams) by Stanley McChrystal, Chris Fussell, Tantum Collins, & David Silverman
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/book/show/22571761-thanks-for-the-feedback) by Douglas Stone & Sheila Heen
 * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
 * [The Effective Manager](https://www.goodreads.com/book/show/27316166-the-effective-manager) by Mark Horstman
@@ -104,6 +106,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs](https://www.goodreads.com/book/show/17297099-effective-objective-c-2-0) by Matt Galloway
 * [Foundations of Scalable Systems](https://www.goodreads.com/book/show/61046500-foundations-of-scalable-systems) by Ian Gorton
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards & Neal Ford
+* [Implementing Lean Software Development: From Concept to Cash](https://www.goodreads.com/book/show/349417.Implementing_Lean_Software_Development) by Mary Poppendieck & Tom Poppendieck
 * [Infrastructure as Code: Dynamic Systems for the Cloud Age](https://www.goodreads.com/book/show/53481701-infrastructure-as-code) by Kief Morris
 * [iPhone Programming: The Big Nerd Ranch Guide](https://www.goodreads.com/book/show/8294275-iphone-programming) by Joe Conway & Aaron Hillegass
 * [Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)](https://www.goodreads.com/book/show/54716655-kill-it-with-fire) by Marianne Bellotti
