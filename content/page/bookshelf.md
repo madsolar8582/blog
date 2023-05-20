@@ -39,10 +39,12 @@ Below are various books that I have read divided into primary categories (no end
 * [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams) by Stanley McChrystal, Chris Fussell, Tantum Collins, & David Silverman
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/book/show/22571761-thanks-for-the-feedback) by Douglas Stone & Sheila Heen
 * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
+* [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/book/show/55232286-the-delicate-art-of-bureaucracy) by Mark Schwartz
 * [The Effective Manager](https://www.goodreads.com/book/show/27316166-the-effective-manager) by Mark Horstman
 * [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni
 * [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
+* [The Service Organization: How to Deliver and Lead Successful Services, Sustainably](https://www.goodreads.com/book/show/64408457-the-service-organization) by Kate Tarling
 * [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/9723317-tribal-leadership) by Dave Logan, John King, & Halee Fischer-Wright
 * [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/book/show/53138083-working-backwards) by Colin Bryar & Bill Carr
 
