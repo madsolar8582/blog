@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on WWDC 2023"
 subtitle: ""
-date: 2022-06-10T07:30:00-05:00
+date: 2023-06-10T07:30:00-05:00
 tags: ["apple", "wwdc"]
 ---
 
