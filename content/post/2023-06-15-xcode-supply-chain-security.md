@@ -1,0 +1,18 @@
+---
+title: "Xcode Supply Chain Security"
+subtitle: ""
+date: 2023-06-15T17:30:00-05:00
+tags: ["xcode", "security"]
+---
+
+Xcode 15 includes a few changes from Apple in an effort to harden the [software supply chain](https://www.redhat.com/en/topics/security/what-is-software-supply-chain-security). The majority of these changes are being phased in, while another is actively impacting developers attempting to test on the new OS versions with the new version of Xcode.
+
+First up is script sandboxing. Xcode 14 introduced a new build setting, `ENABLE_USER_SCRIPT_SANDBOXING`, that prevents shell scripts from accessing any files inside of `SRCROOT` and the `Derived Data` folder without being declared as inputs and outputs to the script. In Xcode 15, this defaults to YES in new projects and will likely become a recommended setting change when you upgrade your Xcode project file at a later date. From a security standpoint, the prevents potentially malicious scripts from accessing data on your machine without your knowledge. Apple also treats this as a build system improvement as the build system can accurately reason about what files are potentially modified and skip running the script phase if it is not required.
+
+Second is a new feature this year called [Privacy Manifests](https://developer.apple.com/documentation/bundleresources/describing_data_use_in_privacy_manifests). These manifests are a way for Apple to require accurate information to display in the App Store via [Nutrition Labels](https://developer.apple.com/app-store/user-privacy-and-data-use/). These manifests are code signed to prevent tampering and ensure that you as a developer know what data is collected from your application. This is also going to allow Apple to control access to APIs that could be used for fingerprinting (the list is [forthcoming](https://developer.apple.com/news/?id=av1nevon)). Starting this Fall, Apple will notify apps if they will be impacted by these changes and App Store Connect will begin enforcing the presence of these files in the Spring of 2024.
+
+Lastly, Apple wants to beef up the security of binary dependencies since you cannot necessarily verify that the binary you are using was modified. Unfortunately, as of Seed 1, there is no way of disabling this feature if you use SPM. As a result, any application consuming a binary dependency cannot compile unless you remove the dependency. The reason for this is that the build system is checking the code signature of the XCFrameworks in your project for validity. Apple provides [instructions](https://developer.apple.com/documentation/Xcode/verifying-the-origin-of-your-xcframeworks) for how to manage this for manually integrated frameworks, but not via SPM. Additionally, SPM has a [track record](https://forums.swift.org/t/swiftpm-binarytarget-dependency-and-code-signing/38953) of not playing nice with code signed binary frameworks. With no workaround (the left hand does not appear to be talking to the right hand), I would have expected a different approach. This move is the right one to make, but it should have been opt-in first so that developers had time to adjust and then make it required. Hopefully future versions of Xcode/SPM give us finer grained controls of adopting this feature.
+
+---
+
+Other than the current blocker of signed XCFrameworks, which now requires binary dependency authors to purchase a developer account for legitimate signing, these moves will increase the security and privacy of the development ecosystem. I'm curious as to whether Apple will take this further and begin updating the build system to support [reproducible builds](https://reproducible-builds.org/).
