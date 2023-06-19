@@ -32,11 +32,13 @@ Below are various books that I have read divided into primary categories (no end
 * [Primal Leadership: Unleashing the Power of Emotional Intelligence](https://www.goodreads.com/book/show/17707825-primal-leadership-with-a-new-preface-by-the-authors) by Daniel Goleman, Richard Boyatzis, & Anne McKee
 * [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](https://www.goodreads.com/book/show/39211557-project-to-product) by Mik Kersten
 * [Radical Candor: Be a Kick-A$$ Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/43263498-radical-candor) by Kim Scott
+* [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/book/show/13490701-start-with-why) by Simon Sinek
 * [Strengths Based Leadership: Great Leaders, Teams, and Why People Follow](https://www.goodreads.com/book/show/5973885-strengths-based-leadership) by Tom Rath & Barry Conchie
 * [StrengthsFinder 2.0](https://www.goodreads.com/book/show/8123742-strengthsfinder-2-0) by Tom Rath
   * Top 5: [Learner](https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx), [Arranger](https://www.gallup.com/cliftonstrengths/en/252161/arranger-theme.aspx), [Restorative](https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx), [Achiever](https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx), & [Analytical](https://www.gallup.com/cliftonstrengths/en/252152/analytical-theme.aspx)
 * [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams) by Stanley McChrystal, Chris Fussell, Tantum Collins, & David Silverman
+* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/43572685-team-topologies) by Matthew Skelton & Manuel Pais
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/book/show/22571761-thanks-for-the-feedback) by Douglas Stone & Sheila Heen
 * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
 * [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/book/show/55232286-the-delicate-art-of-bureaucracy) by Mark Schwartz
@@ -52,6 +54,7 @@ Below are various books that I have read divided into primary categories (no end
 
 * [100 Things Every Designer Needs to Know About People](https://www.goodreads.com/book/show/54833271-100-things-every-designer-needs-to-know-about-people) by Susan Weinschenk
 * [Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs](https://www.goodreads.com/book/show/40965884-creative-selection) by Ken Kocienda
+* [Customers Know You Suck: Actionable CX Strategies to Better Understand, Attract, and Retain Customers](https://www.goodreads.com/book/show/63876088-customers-know-you-suck) by Debbie Levitt
 * [Mismatch: How Inclusion Shapes Design](https://www.goodreads.com/book/show/39644200-mismatch) by Kat Holmes
 * [The Design of Everyday Things](https://www.goodreads.com/book/show/17290807-the-design-of-everyday-things) by Don Norman
 * [User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play](https://www.goodreads.com/book/show/41940285-user-friendly) by Cliff Kuang & Robert Fabricant
@@ -67,6 +70,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology) by Ruha Benjamin
 * [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
 * [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.goodreads.com/book/show/38212110-technically-wrong) by Sara Wachter-Boettcher
+* [Tools and Weapons: The Promise and the Peril of the Digital Age](https://www.goodreads.com/book/show/53280807-tools-and-weapons) by Brad Smith & Carol Ann Browne
 
 ### Psychology
 
