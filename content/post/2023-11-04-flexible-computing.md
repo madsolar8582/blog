@@ -1,7 +1,7 @@
 ---
 title: "Flexible Computing"
 subtitle: ""
-date: 2023-11-01T08:40:00-05:00
+date: 2023-11-04T08:40:00-05:00
 tags: ["macos", "windows"]
 ---
 
