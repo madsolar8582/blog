@@ -23,7 +23,7 @@ Of course, you may also have web content. In your web content, you can create an
 
 ```javascript
 const observer = new PerformanceObserver((metrics) => {
-  metrics.getEntries().forEach((entry) => {
+  metrics.getEntries().forEach((metric) => {
     // Do something with the data
   });
 });
@@ -33,7 +33,7 @@ observer.observe({ type: "resource", buffered: true });
 
 Each entry is an instance of [`PerformanceResourceTiming`](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceResourceTiming) which has very similar attributes as the metric data from the URL loading system. As such, you can make the same calculations. Now if you need to transmit the data, you can send it via [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), but WebKit offers another option.
 
-If you implement an object that conforms to the [`WKScriptMessageHandler`](https://developer.apple.com/documentation/webkit/wkscriptmessagehandler?language=objc) protocol (specifically [`userContentController:didReceiveScriptMessage:`](https://developer.apple.com/documentation/webkit/wkscriptmessagehandler/1396222-usercontentcontroller?language=objc)), and add it to the instance of [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview?language=objc) by way of [`WKWebViewConfiguration`](https://developer.apple.com/documentation/webkit/wkwebviewconfiguration?language=objc) and its associated [`WKUserContentController`](https://developer.apple.com/documentation/webkit/wkusercontentcontroller?language=objc) with the [`addScriptMessageHandler:contentWorld:name:`](https://developer.apple.com/documentation/webkit/wkusercontentcontroller/3585112-addscriptmessagehandler?language=objc) method, the web content can call `window.webkit.messageHandlers.<name>.postMessage(<messageBody>)` and the native layer will be able to process that data and send it using the URL loading system instead.
+If you implement an object that conforms to the [`WKScriptMessageHandler`](https://developer.apple.com/documentation/webkit/wkscriptmessagehandler?language=objc) protocol (specifically [`userContentController:didReceiveScriptMessage:`](https://developer.apple.com/documentation/webkit/wkscriptmessagehandler/1396222-usercontentcontroller?language=objc)), and add it to the instance of [`WKWebView`](https://developer.apple.com/documentation/webkit/wkwebview?language=objc) by way of [`WKWebViewConfiguration`](https://developer.apple.com/documentation/webkit/wkwebviewconfiguration?language=objc) and its associated [`WKUserContentController`](https://developer.apple.com/documentation/webkit/wkusercontentcontroller?language=objc) with the [`addScriptMessageHandler:contentWorld:name:`](https://developer.apple.com/documentation/webkit/wkusercontentcontroller/3585112-addscriptmessagehandler?language=objc) method, the web content can call `window.webkit.messageHandlers.<name>.postMessage(<messageBody>)` and the native layer will be able to process that data and send it using the URL loading system instead.
 
 Lastly, if you need to test connections outside of the application, you can use cURL.
 
