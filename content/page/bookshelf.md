@@ -40,9 +40,11 @@ Below are various books that I have read divided into primary categories (no end
 * [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams) by Stanley McChrystal, Chris Fussell, Tantum Collins, & David Silverman
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/43572685-team-topologies) by Matthew Skelton & Manuel Pais
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/book/show/22571761-thanks-for-the-feedback) by Douglas Stone & Sheila Heen
+* [The Art of Leadership: Small Things, Done Well](https://www.goodreads.com/book/show/50083106-the-art-of-leadership) by Michael Lopp
 * [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://www.goodreads.com/book/show/18210794-culture-map) by Erin Meyer
 * [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/book/show/55232286-the-delicate-art-of-bureaucracy) by Mark Schwartz
 * [The Effective Manager](https://www.goodreads.com/book/show/27316166-the-effective-manager) by Mark Horstman
+* [The Engineering Executive's Primer: Impactful Technical Leadership](https://www.goodreads.com/book/show/199699997-the-engineering-executive-s-primer) by Will Larson
 * [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni
 * [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
@@ -137,7 +139,9 @@ Below are various books that I have read divided into primary categories (no end
 * [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/35469581-the-phoenix-project) by Gene Kim, Kevin Behr, & George Spafford
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andrew Hunt & David Thomas
 * [The Programmer's Brain](https://www.goodreads.com/book/show/57196550-the-programmer-s-brain) by Felienne Hermans
+* [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://www.goodreads.com/book/show/201545491-the-software-engineer-s-guidebook) by Gergely Orosz
 * [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.goodreads.com/book/show/44333183-the-unicorn-project) by Gene Kim
+* [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.goodreads.com/book/show/171691901-tidy-first) by Kent Beck
 * [Understanding Distributed Systems: What every developer should know about large distributed applications](https://www.goodreads.com/book/show/60598814-understanding-distributed-systems) by Roberto Vitillo
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael Feathers
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
