@@ -45,6 +45,7 @@ Below are various books that I have read divided into primary categories (no end
 * [The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler](https://www.goodreads.com/book/show/55232286-the-delicate-art-of-bureaucracy) by Mark Schwartz
 * [The Effective Manager](https://www.goodreads.com/book/show/27316166-the-effective-manager) by Mark Horstman
 * [The Engineering Executive's Primer: Impactful Technical Leadership](https://www.goodreads.com/book/show/199699997-the-engineering-executive-s-primer) by Will Larson
+* [The Engineering Leader: Strategies for Scaling Teams and Yourself](https://www.goodreads.com/book/show/200088023-the-engineering-leader) by Cate Huston
 * [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni
 * [The Infinite Game](https://www.goodreads.com/book/show/38390751-the-infinite-game) by Simon Sinek
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
@@ -143,5 +144,6 @@ Below are various books that I have read divided into primary categories (no end
 * [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.goodreads.com/book/show/44333183-the-unicorn-project) by Gene Kim
 * [Tidy First?: A Personal Exercise in Empirical Software Design](https://www.goodreads.com/book/show/171691901-tidy-first) by Kent Beck
 * [Understanding Distributed Systems: What every developer should know about large distributed applications](https://www.goodreads.com/book/show/60598814-understanding-distributed-systems) by Roberto Vitillo
+* [Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.goodreads.com/book/show/48992298-web-application-security) by Andrew Hoffman
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael Feathers
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
