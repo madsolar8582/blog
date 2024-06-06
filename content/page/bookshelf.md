@@ -64,6 +64,7 @@ Below are various books that I have read divided into primary categories (no end
 
 ### Non-Fiction
 
+* [All About Me! My Remarkable Life in Show Business](https://www.goodreads.com/book/show/58537351-all-about-me-my-remarkable-life-in-show-business) by Mel Brooks
 * [Androids: The Team That Built the Android Operating System](https://www.goodreads.com/book/show/60203703-androids) by Chet Haase
 * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.goodreads.com/book/show/36288143-brotopia) by Emily Chang
 * [Disrupting the Game: From the Bronx to the Top of Nintendo](https://www.goodreads.com/book/show/58429316-disrupting-the-game) by Reggie Fils-Aimé
@@ -71,6 +72,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.goodreads.com/book/show/20445768-inside-apple) by Adam Lashinsky
 * [iWoz: Computer Geek to Cult Icon](https://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
 * [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology) by Ruha Benjamin
+* [Riding the Elephant: A Memoir of Altercations, Humiliations, Hallucinations, and Observations](https://www.goodreads.com/book/show/41429806-riding-the-elephant) by Craig Ferguson
 * [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
 * [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.goodreads.com/book/show/38212110-technically-wrong) by Sara Wachter-Boettcher
 * [Tools and Weapons: The Promise and the Peril of the Digital Age](https://www.goodreads.com/book/show/53280807-tools-and-weapons) by Brad Smith & Carol Ann Browne
