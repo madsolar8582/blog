@@ -12,7 +12,7 @@ Typically, in the keychain, you'd see `Xcode-Token` and `Xcode-AlternateDSID` in
 From the command line, you see these errors:
 
 ```bash
-xcodebuild[47235:33073528]  DVTDeveloperAccountManager: Failed to load credentials for 04A7CBEB-A3FB-48A5-80A0-3E64AC309348: Error Domain=DVTDeveloperAccountCredentialsError Code=0 "Invalid credentials in keychain for <UUID>, missing Xcode-Username" UserInfo={NSLocalizedDescription=Invalid credentials in keychain for <UUID>, missing Xcode-Username}
+xcodebuild[47235:33073528]  DVTDeveloperAccountManager: Failed to load credentials for <UUID>: Error Domain=DVTDeveloperAccountCredentialsError Code=0 "Invalid credentials in keychain for <UUID>, missing Xcode-Username" UserInfo={NSLocalizedDescription=Invalid credentials in keychain for <UUID>, missing Xcode-Username}
 xcodebuild[47235:33073528]  DVTDeveloperAccountManager: Failed to load credentials for <email>: Error Domain=DVTDeveloperAccountCredentialsError Code=0 "Invalid credentials in keychain for <email>, missing Xcode-Token" UserInfo={NSLocalizedDescription=Invalid credentials in keychain for <email>, missing Xcode-Token}
 ...
 error: The operation couldn’t be completed. Unable to log in with account ''. The login details for account '' were rejected.
