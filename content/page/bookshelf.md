@@ -26,6 +26,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan
 * [Leaders Eat Last: Why Some Teams Pull Together and Others Don’t](https://www.goodreads.com/book/show/25716721-leaders-eat-last) by Simon Sinek
 * [Leadership is Language: The Hidden Power of What You Say -- and What You Don't](https://www.goodreads.com/book/show/42774083-leadership-is-language) by L. David Marquet
+* [Leading Effective Engineering Teams: Lessons for Individual Contributors and Managers from 10 Years at Google](https://www.goodreads.com/book/show/199551266-leading-effective-engineering-teams) by Addy Osmani
 * [Measure What Matters: OKRs - The Simple Idea that Drives 10x Growth](https://www.goodreads.com/book/show/36388445-measure-what-matters) by John Doerr
 * [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.goodreads.com/book/show/30736658-never-split-the-difference) by Chris Voss
 * [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware) by Tom DeMarco & Timothy Lister
@@ -71,6 +72,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
 * [Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.goodreads.com/book/show/20445768-inside-apple) by Adam Lashinsky
 * [iWoz: Computer Geek to Cult Icon](https://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
+* [Making It So](https://www.goodreads.com/book/show/101160634-making-it-so) by Patrick Stewart
 * [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology) by Ruha Benjamin
 * [Riding the Elephant: A Memoir of Altercations, Humiliations, Hallucinations, and Observations](https://www.goodreads.com/book/show/41429806-riding-the-elephant) by Craig Ferguson
 * [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
