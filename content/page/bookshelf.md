@@ -112,6 +112,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by Robert Martin
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code) by Charles Petzold
 * [Continuous API Management: Making the Right Decisions in an Evolving Landscape](https://www.goodreads.com/book/show/57871958-continuous-api-management) by Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, & Mike Amundsen
+* [Continuous Deployment: Enable Faster Feedback, Safer Releases, and More Reliable Software](https://www.goodreads.com/book/show/205977540-continuous-deployment) by Valentina Servile
 * [Design Patterns for Cloud Native Applications: Patterns in Practice Using APIs, Data, Events, and Streams](https://www.goodreads.com/book/show/56642541-design-patterns-for-cloud-native-applications) by Kasun Indrasiri & Sriskandarajah Suhothayan
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns) by Erich Gamma, Richard Helm, Ralph Johnson, & John Vlissides
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23466395-designing-data-intensive-applications) by Martin Kleppmann
