@@ -119,6 +119,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.goodreads.com/book/show/58278048-docs-for-developers) by Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Núñez, & Heidi Waterhouse
 * [Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs](https://www.goodreads.com/book/show/17297099-effective-objective-c-2-0) by Matt Galloway
 * [Foundations of Scalable Systems](https://www.goodreads.com/book/show/61046500-foundations-of-scalable-systems) by Ian Gorton
+* [Fundamentals of Enterprise Architecture: Proven Frameworks for Effective Architecture Decisions](https://www.goodreads.com/book/show/212162912-fundamentals-of-enterprise-architecture) by Tanusree McCabe
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards & Neal Ford
 * [Implementing Lean Software Development: From Concept to Cash](https://www.goodreads.com/book/show/349417.Implementing_Lean_Software_Development) by Mary Poppendieck & Tom Poppendieck
 * [Infrastructure as Code: Dynamic Systems for the Cloud Age](https://www.goodreads.com/book/show/53481701-infrastructure-as-code) by Kief Morris
