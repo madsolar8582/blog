@@ -118,6 +118,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23466395-designing-data-intensive-applications) by Martin Kleppmann
 * [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.goodreads.com/book/show/58278048-docs-for-developers) by Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Núñez, & Heidi Waterhouse
 * [Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs](https://www.goodreads.com/book/show/17297099-effective-objective-c-2-0) by Matt Galloway
+* [Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions](https://www.goodreads.com/book/show/199278709-facilitating-software-architecture) by Andrew Harmel-Law
 * [Foundations of Scalable Systems](https://www.goodreads.com/book/show/61046500-foundations-of-scalable-systems) by Ian Gorton
 * [Fundamentals of Enterprise Architecture: Proven Frameworks for Effective Architecture Decisions](https://www.goodreads.com/book/show/212162912-fundamentals-of-enterprise-architecture) by Tanusree McCabe
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards & Neal Ford
@@ -153,3 +154,16 @@ Below are various books that I have read divided into primary categories (no end
 * [Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.goodreads.com/book/show/48992298-web-application-security) by Andrew Hoffman
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael Feathers
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
+
+### Writing
+* [On Writing and Worldbuilding: Volume I](https://www.goodreads.com/book/show/200947543-on-writing-and-worldbuilding) by Timothy Hickson
+* [On Writing and Worldbuilding: Volume II](https://www.goodreads.com/book/show/59499138-on-writing-and-worldbuilding) by Timothy Hickson
+* [On Writing and Worldbuilding: Volume III](https://www.goodreads.com/book/show/201194217-on-writing-and-worldbuilding) by Timothy Hickson
+* [The Conflict Thesaurus: A Writer's Guide to Obstacles, Adversaries, and Inner Struggles Volume 1](https://www.goodreads.com/book/show/58958415-the-conflict-thesaurus) by Angela Ackerman & Becca Puglisi
+* [The Conflict Thesaurus: A Writer's Guide to Obstacles, Adversaries, and Inner Struggles Volume 2](https://www.goodreads.com/book/show/61875785-the-conflict-thesaurus) by Angela Ackerman & Becca Puglisi
+* [The Emotion Amplifier Thesaurus: A Writer's Guide to Character Stress and Volatility](https://www.goodreads.com/book/show/211051145-the-emotion-amplifier-thesaurus) by Angela Ackerman & Becca Puglisi
+* [The Emotion Thesaurus: A Writer's Guide to Character Expression](https://www.goodreads.com/book/show/43552556-the-emotion-thesaurus) by Angela Ackerman & Becca Puglisi
+* [The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma](https://www.goodreads.com/book/show/36407946-the-emotional-wound-thesaurus) by Angela Ackerman & Becca Puglisi
+* [The Negative Trait Thesaurus: A Writer's Guide to Character Flaws](https://www.goodreads.com/book/show/18517230-the-negative-trait-thesaurus) by Angela Ackerman & Becca Puglisi
+* [The Planet Construction Kit](https://www.goodreads.com/book/show/9506056-the-planet-construction-kit) by Mark Rosenfelder
+* [The Positive Trait Thesaurus: A Writer's Guide to Character Attributes](https://www.goodreads.com/book/show/18517268-the-positive-trait-thesaurus) by Angela Ackerman & Becca Puglisi
