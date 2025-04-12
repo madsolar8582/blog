@@ -65,9 +65,11 @@ Below are various books that I have read divided into primary categories (no end
 
 ### Non-Fiction
 
+* [A Promised Land](https://www.goodreads.com/book/show/55359022-a-promised-land) by Barack Obama
 * [All About Me! My Remarkable Life in Show Business](https://www.goodreads.com/book/show/58537351-all-about-me-my-remarkable-life-in-show-business) by Mel Brooks
 * [Androids: The Team That Built the Android Operating System](https://www.goodreads.com/book/show/60203703-androids) by Chet Haase
 * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.goodreads.com/book/show/36288143-brotopia) by Emily Chang
+* [Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](https://www.goodreads.com/book/show/223436601-careless-people) by Sarah Wynn-Williams
 * [Disrupting the Game: From the Bronx to the Top of Nintendo](https://www.goodreads.com/book/show/58429316-disrupting-the-game) by Reggie Fils-Aimé
 * [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
 * [Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.goodreads.com/book/show/20445768-inside-apple) by Adam Lashinsky
