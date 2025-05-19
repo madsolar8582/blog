@@ -21,6 +21,16 @@ HUGO_ENV = "production"
 
 [[redirects]]
   from = "http://msolarana.netlify.app/*"
-  to = "https://msolarana.netlify.app/:splat"
+  to = "https://solarana.dev/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://msolarana.netlify.app/*"
+  to = "https://solarana.dev/:splat"
+  status = 301
+  force = true
+[[redirects]]
+  from = "http://solarana.dev/*"
+  to = "https://solarana.dev/:splat"
   status = 301
   force = true

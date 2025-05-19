@@ -1,4 +1,4 @@
-baseURL = "https://msolarana.netlify.app/"
+baseURL = "https://solarana.dev/"
 languageCode = "en-us"
 theme = "paper"
 title = "Madison's Blog"
