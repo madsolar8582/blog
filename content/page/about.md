@@ -9,6 +9,5 @@ Hi! I'm Madison and I'm a software engineer that works on iOS apps & Mac system 
 ### Socials
 
 * [Mastodon](https://mastodon.social/@madisonsolarana)
-* [Bluesky](https://bsky.app/profile/solarana.dev)
 * [GitHub](https://github.com/madsolar8582)
 * [LinkedIn](https://linkedin.com/in/madisonsolarana)
