@@ -6,6 +6,16 @@ unlisted: true
 
 Below are various books that I have read divided into primary categories (no endorsement implied).
 
+### Biography
+
+* [A Promised Land](https://www.goodreads.com/book/show/55359022-a-promised-land) by Barack Obama
+* [All About Me! My Remarkable Life in Show Business](https://www.goodreads.com/book/show/58537351-all-about-me-my-remarkable-life-in-show-business) by Mel Brooks
+* [Disrupting the Game: From the Bronx to the Top of Nintendo](https://www.goodreads.com/book/show/58429316-disrupting-the-game) by Reggie Fils-Aimé
+* [iWoz: Computer Geek to Cult Icon](https://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
+* [Making It So](https://www.goodreads.com/book/show/101160634-making-it-so) by Patrick Stewart
+* [Riding the Elephant: A Memoir of Altercations, Humiliations, Hallucinations, and Observations](https://www.goodreads.com/book/show/41429806-riding-the-elephant) by Craig Ferguson
+* [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
+
 ### Business & Leadership
 
 * [7 Rules for Positive, Productive Change: Micro Shifts, Macro Results](https://www.goodreads.com/book/show/43999078-7-rules-for-positive-productive-change) by Esther Derby
@@ -54,6 +64,13 @@ Below are various books that I have read divided into primary categories (no end
 * [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/9723317-tribal-leadership) by Dave Logan, John King, & Halee Fischer-Wright
 * [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/book/show/53138083-working-backwards) by Colin Bryar & Bill Carr
 
+### Climate & Environment
+
+* [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need](https://www.goodreads.com/book/show/52908942-how-to-avoid-a-climate-disaster) by Bill Gates
+* [The End of Eden: Wild Nature in the Age of Climate Breakdown](https://www.goodreads.com/book/show/126524776-the-end-of-eden) by Adam Welz
+* [The Great Displacement: Climate Change and the Next American Migration](https://www.goodreads.com/book/show/59366223-the-great-displacement) by Jake Bittle
+* [Wasteland: The Secret World of Waste and the Urgent Search for a Cleaner Future](https://www.goodreads.com/book/show/63251764-wasteland) by Oliver Franklin-Wallis
+
 ### Design
 
 * [100 Things Every Designer Needs to Know About People](https://www.goodreads.com/book/show/54833271-100-things-every-designer-needs-to-know-about-people) by Susan Weinschenk
@@ -63,23 +80,48 @@ Below are various books that I have read divided into primary categories (no end
 * [The Design of Everyday Things](https://www.goodreads.com/book/show/17290807-the-design-of-everyday-things) by Don Norman
 * [User Friendly: How the Hidden Rules of Design Are Changing the Way We Live, Work, and Play](https://www.goodreads.com/book/show/41940285-user-friendly) by Cliff Kuang & Robert Fabricant
 
-### Non-Fiction
+### Economics
 
-* [A Promised Land](https://www.goodreads.com/book/show/55359022-a-promised-land) by Barack Obama
-* [All About Me! My Remarkable Life in Show Business](https://www.goodreads.com/book/show/58537351-all-about-me-my-remarkable-life-in-show-business) by Mel Brooks
-* [Androids: The Team That Built the Android Operating System](https://www.goodreads.com/book/show/60203703-androids) by Chet Haase
-* [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.goodreads.com/book/show/36288143-brotopia) by Emily Chang
-* [Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](https://www.goodreads.com/book/show/223436601-careless-people) by Sarah Wynn-Williams
-* [Disrupting the Game: From the Bronx to the Top of Nintendo](https://www.goodreads.com/book/show/58429316-disrupting-the-game) by Reggie Fils-Aimé
-* [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
-* [Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.goodreads.com/book/show/20445768-inside-apple) by Adam Lashinsky
-* [iWoz: Computer Geek to Cult Icon](https://www.goodreads.com/book/show/798635.iWoz) by Steve Wozniak
-* [Making It So](https://www.goodreads.com/book/show/101160634-making-it-so) by Patrick Stewart
-* [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology) by Ruha Benjamin
-* [Riding the Elephant: A Memoir of Altercations, Humiliations, Hallucinations, and Observations](https://www.goodreads.com/book/show/41429806-riding-the-elephant) by Craig Ferguson
-* [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) by Walter Isaacson
-* [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.goodreads.com/book/show/38212110-technically-wrong) by Sara Wachter-Boettcher
-* [Tools and Weapons: The Promise and the Peril of the Digital Age](https://www.goodreads.com/book/show/53280807-tools-and-weapons) by Brad Smith & Carol Ann Browne
+* [Bad Company: Private Equity and the Death of the American Dream](https://www.goodreads.com/book/show/218671853-bad-company) by Megan Greenwell
+* [Dirty Work: Essential Jobs and the Hidden Toll of Inequality in America](https://www.goodreads.com/book/show/54785496-dirty-work) by Eyal Press
+* [Invisible Doctrine: The Secret History of Neoliberalism](https://www.goodreads.com/book/show/199393180-invisible-doctrine) by George Monbiot & Peter Hutchison
+* [Poverty, by America](https://www.goodreads.com/book/show/61358638-poverty-by-america) by Matthew Desmond
+* [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://www.goodreads.com/book/show/52962238-principles-for-dealing-with-the-changing-world-order) by Ray Dalio
+* [Stuck: How the Privileged and the Propertied Broke the Engine of American Opportunity](https://www.goodreads.com/book/show/215805908-stuck) by Yoni Appelbaum
+* [Technofeudalism: What Killed Capitalism](https://www.goodreads.com/book/show/75560036-technofeudalism) by Yanis Varoufakis
+* [The End of the World Is Just the Beginning: Mapping the Collapse of Globalization](https://www.goodreads.com/book/show/58782897-the-end-of-the-world-is-just-the-beginning) by Peter Zeihan
+* [Trade Wars Are Class Wars: How Rising Inequality Distorts the Global Economy and Threatens International Peace](https://www.goodreads.com/book/show/52009042-trade-wars-are-class-wars) by Matthew C. Klein & Michael Pettis
+* [Vulture Capitalism: Corporate Crimes, Backdoor Bailouts, and the Death of Freedom](https://www.goodreads.com/book/show/176443397-vulture-capitalism) by Grace Blakeley
+
+### Education
+
+* [A Wolf at the Schoolhouse Door: The Dismantling of Public Education and the Future of School](https://www.goodreads.com/book/show/55460187-a-wolf-at-the-schoolhouse-door) by Jack Schneider & Jennifer Berkshire
+* [The Death and Life of the Great American School System: How Testing and Choice Are Undermining Education](https://www.goodreads.com/book/show/30754782-the-death-and-life-of-the-great-american-school-system) by Diane Ravitch
+* [The Teacher Wars: A History of America's Most Embattled Profession](https://www.goodreads.com/book/show/20170991-the-teacher-wars) by Dana Goldstein
+
+### Healthcare
+
+* [An American Sickness: How Healthcare Became Big Business and How You Can Take It Back](https://www.goodreads.com/book/show/35535659-an-american-sickness) by Elisabeth Rosenthal
+* [Delay, Deny, Defend: Why Insurance Companies Don't Pay Claims and What You Can Do About It](https://www.goodreads.com/book/show/7932991-delay-deny-defend) by Jay M. Feinman
+* [Ultra-Processed People: Why We Can't Stop Eating Food That Isn't Food](https://www.goodreads.com/book/show/200196183-ultra-processed-people) by Chris van Tulleken
+
+### History
+
+* [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens) by Yuval Noah Harari
+
+### Political Science
+
+* [Autocracy, Inc.](https://www.goodreads.com/book/show/183932735-autocracy-inc) by Anne Applebaum
+* [Erasing History: How Fascists Rewrite the Past to Control the Future](https://www.goodreads.com/book/show/207294076-erasing-history) by Jason F. Stanley
+* [Evil Geniuses: The Unmaking of America](https://www.goodreads.com/book/show/53562067-evil-geniuses) by Kurt Andersen
+* [How Democracies Die: What History Reveals About Our Future](https://www.goodreads.com/book/show/35356384-how-democracies-die) by Steven Levitsky & Daniel Ziblatt
+* [How Fascism Works: The Politics of Us and Them](https://www.goodreads.com/book/show/38255329-how-fascism-works) by Jason F. Stanley
+* [On Freedom](https://www.goodreads.com/book/show/203956715-on-freedom) by Timothy Snyder
+* [On Tyranny: Twenty Lessons from the Twentieth Century](https://www.goodreads.com/book/show/33917107-on-tyranny) by Timothy Snyder
+* [The Originalism Trap: How Extremists Stole the Constitution and How We the People Can Take It Back](https://www.goodreads.com/book/show/198563718-the-originalism-trap) by Madiba K. Dennie
+* [Tyranny of the Minority: Why American Democracy Reached the Breaking Point](https://www.goodreads.com/book/show/122769171-tyranny-of-the-minority) by Steven Levitsky & Daniel Ziblatt
+* [Why Nothing Works: Who Killed Progress―and How to Bring It Back](https://www.goodreads.com/book/show/214175076-why-nothing-works) by Marc J. Dunkelman
+* [Why We're Polarized](https://www.goodreads.com/book/show/52098718-why-we-re-polarized) by Ezra Klein
 
 ### Psychology
 
@@ -98,7 +140,29 @@ Below are various books that I have read divided into primary categories (no end
 * [The Tools of Argument: How the Best Lawyers Think, Argue, and Win](https://www.goodreads.com/book/show/18258324-the-tools-of-argument) by Joel P. Trachtman
 * [Wellbeing: The Five Essential Elements](https://www.goodreads.com/book/show/8063945-wellbeing) by Tom Rath & James K. Harter
 
-### Software & Engineering
+### Social Justice
+
+* [Border and Rule: Global Migration, Capitalism, and the Rise of Racist Nationalism](https://www.goodreads.com/book/show/54626107-border-and-rule) by Harsha Walia
+* [Migrating to Prison: America's Obsession With Locking Up Immigrants](https://www.goodreads.com/book/show/51827515-migrating-to-prison) by César Cuauhtémoc García Hernández
+* [On Critical Race Theory: Why It Matters & Why You Should Care](https://www.goodreads.com/book/show/59900678-on-critical-race-theory) by Victor Ray
+* [Profit and Punishment: How America Criminalizes the Poor in the Name of Justice](https://www.goodreads.com/book/show/56269121-profit-and-punishment) by Tony Messenger
+* [Rise of the Warrior Cop: The Militarization of America's Police Forces](https://www.goodreads.com/book/show/55103424-rise-of-the-warrior-cop) by Radley Balko
+* [The End of Policing](https://www.goodreads.com/book/show/59414499-the-end-of-policing) by Alex S. Vitale
+* [The New Jim Crow](https://www.goodreads.com/book/show/6792458-the-new-jim-crow) by Michelle Alexander
+
+### Sociology
+
+* [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century) by Yuval Noah Harari
+* [Black Pill: How I Witnessed the Darkest Corners of the Internet Come to Life, Poison Society, and Capture American Politics](https://www.goodreads.com/book/show/199798813-black-pill) by Elle Reeve
+* [End Times: Elites, Counter-Elites, and the Path of Political Disintegration](https://www.goodreads.com/book/show/62926960-end-times) by Peter Turchin
+* [Men Who Hate Women: From Incels to Pickup Artists: The Truth about Extreme Misogyny and How it Affects Us All](https://www.goodreads.com/book/show/136281676-men-who-hate-women) by Laura Bates
+* [Money, Lies, and God: Inside the Movement to Destroy American Democracy](https://www.goodreads.com/book/show/211003831-money-lies-and-god) by Katherine Stewart
+* [No Visible Bruises: What We Don’t Know About Domestic Violence Can Kill Us](https://www.goodreads.com/book/show/33786693-no-visible-bruises) by Rachel Louise Snyder
+* [One Nation Under Guns: How Gun Culture Distorts Our History and Threatens Our Democracy](https://www.goodreads.com/book/show/146487082-one-nation-under-guns) by Dominic Erdozain
+* [The Power Worshippers: Inside the Dangerous Rise of Religious Nationalism](https://www.goodreads.com/book/show/44453035-the-power-worshippers) by Katherine Stewart
+* [Who’s Afraid of Gender?](https://www.goodreads.com/book/show/127282429-who-s-afraid-of-gender) by Judith Butler
+
+### Software & Development
 
 * [A Common-Sense Guide to Data Structures and Algorithms](https://www.goodreads.com/book/show/48764406-a-common-sense-guide-to-data-structures-and-algorithms) by Jay Wengrow
 * [API Design Patterns](https://www.goodreads.com/book/show/51192053-api-design-patterns) by JJ Geewax
@@ -157,15 +221,17 @@ Below are various books that I have read divided into primary categories (no end
 * [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) by Michael Feathers
 * [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556-working-in-public) by Nadia Eghbal
 
-### Writing
-* [On Writing and Worldbuilding: Volume I](https://www.goodreads.com/book/show/200947543-on-writing-and-worldbuilding) by Timothy Hickson
-* [On Writing and Worldbuilding: Volume II](https://www.goodreads.com/book/show/59499138-on-writing-and-worldbuilding) by Timothy Hickson
-* [On Writing and Worldbuilding: Volume III](https://www.goodreads.com/book/show/201194217-on-writing-and-worldbuilding) by Timothy Hickson
-* [The Conflict Thesaurus: A Writer's Guide to Obstacles, Adversaries, and Inner Struggles Volume 1](https://www.goodreads.com/book/show/58958415-the-conflict-thesaurus) by Angela Ackerman & Becca Puglisi
-* [The Conflict Thesaurus: A Writer's Guide to Obstacles, Adversaries, and Inner Struggles Volume 2](https://www.goodreads.com/book/show/61875785-the-conflict-thesaurus) by Angela Ackerman & Becca Puglisi
-* [The Emotion Amplifier Thesaurus: A Writer's Guide to Character Stress and Volatility](https://www.goodreads.com/book/show/211051145-the-emotion-amplifier-thesaurus) by Angela Ackerman & Becca Puglisi
-* [The Emotion Thesaurus: A Writer's Guide to Character Expression](https://www.goodreads.com/book/show/43552556-the-emotion-thesaurus) by Angela Ackerman & Becca Puglisi
-* [The Emotional Wound Thesaurus: A Writer's Guide to Psychological Trauma](https://www.goodreads.com/book/show/36407946-the-emotional-wound-thesaurus) by Angela Ackerman & Becca Puglisi
-* [The Negative Trait Thesaurus: A Writer's Guide to Character Flaws](https://www.goodreads.com/book/show/18517230-the-negative-trait-thesaurus) by Angela Ackerman & Becca Puglisi
-* [The Planet Construction Kit](https://www.goodreads.com/book/show/9506056-the-planet-construction-kit) by Mark Rosenfelder
-* [The Positive Trait Thesaurus: A Writer's Guide to Character Attributes](https://www.goodreads.com/book/show/18517268-the-positive-trait-thesaurus) by Angela Ackerman & Becca Puglisi
+### Technology
+
+* [Androids: The Team That Built the Android Operating System](https://www.goodreads.com/book/show/60203703-androids) by Chet Haase
+* [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.goodreads.com/book/show/36288143-brotopia) by Emily Chang
+* [Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism](https://www.goodreads.com/book/show/223436601-careless-people) by Sarah Wynn-Williams
+* [Character Limit: How Elon Musk Destroyed Twitter](https://www.goodreads.com/book/show/209543060-character-limit) by Kate Conger & Ryan Mac
+* [Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/book/show/43726517-hello-world) by Hannah Fry
+* [Inside Apple: How America's Most Admired--and Secretive--Company Really Works](https://www.goodreads.com/book/show/20445768-inside-apple) by Adam Lashinsky
+* [Nexus: A Brief History of Information Networks from the Stone Age to AI](https://www.goodreads.com/book/show/204927599-nexus) by Yuval Noah Harari
+* [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology) by Ruha Benjamin
+* [Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better](https://www.goodreads.com/book/show/61796680-recoding-america) by Jennifer Pahlka
+* [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.goodreads.com/book/show/38212110-technically-wrong) by Sara Wachter-Boettcher
+* [The Singularity Is Nearer: When We Merge with AI](https://www.goodreads.com/book/show/45024007-the-singularity-is-nearer) by Ray Kurzweil
+* [Tools and Weapons: The Promise and the Peril of the Digital Age](https://www.goodreads.com/book/show/53280807-tools-and-weapons) by Brad Smith & Carol Ann Browne
