@@ -168,6 +168,8 @@ Below are various books that I have read divided into primary categories (no end
 * [API Design Patterns](https://www.goodreads.com/book/show/51192053-api-design-patterns) by JJ Geewax
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
 * [Advanced Apple Debugging & Reverse Engineering](https://www.goodreads.com/book/show/35514420-advanced-apple-debugging-reverse-engineering) by Derek Selander
+* [Algorithmic Thinking, 2nd Edition: Learn Algorithms to Level Up Your Coding Skills](https://www.goodreads.com/book/show/123675225-algorithmic-thinking-2nd-edition) by Daniel Zingaro
+* [Apache Kafka in Action: From Basics to Production](https://www.goodreads.com/book/show/227828290-apache-kafka-in-action) by Anatoly Zelenin & Alexander Kropp
 * [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.goodreads.com/book/show/51163447-building-event-driven-microservices) by Adam Bellemare
 * [Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers](https://www.goodreads.com/book/show/59656687-building-micro-frontends) by Luca Mezzalira
 * [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/38824352-building-microservices) by Sam Newman
@@ -177,28 +179,45 @@ Below are various books that I have read divided into primary categories (no end
 * [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/book/show/18043011-clean-architecture) by Robert Martin
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by Robert Martin
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code) by Charles Petzold
+* [Coding Interview Patterns: Nail Your Next Coding Interview]() by Alex Xu & Shaun Gunawardane
 * [Continuous API Management: Making the Right Decisions in an Evolving Landscape](https://www.goodreads.com/book/show/57871958-continuous-api-management) by Mehdi Medjaoui, Erik Wilde, Ronnie Mitra, & Mike Amundsen
 * [Continuous Deployment: Enable Faster Feedback, Safer Releases, and More Reliable Software](https://www.goodreads.com/book/show/205977540-continuous-deployment) by Valentina Servile
+* [Data Structures and Algorithms in JavaScript](https://www.goodreads.com/book/show/61822026-data-structures-and-algorithms-in-javascript) by Federico Kereki
+* [Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples](https://www.goodreads.com/book/show/60704823) by Jeremy Kubica
 * [Design Patterns for Cloud Native Applications: Patterns in Practice Using APIs, Data, Events, and Streams](https://www.goodreads.com/book/show/56642541-design-patterns-for-cloud-native-applications) by Kasun Indrasiri & Sriskandarajah Suhothayan
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns) by Erich Gamma, Richard Helm, Ralph Johnson, & John Vlissides
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/23466395-designing-data-intensive-applications) by Martin Kleppmann
+* [Docker Deep Dive: Zero to Docker in a Single Book](https://www.goodreads.com/book/show/220423889-docker-deep-dive) by Nigel Poulton
 * [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.goodreads.com/book/show/58278048-docs-for-developers) by Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Núñez, & Heidi Waterhouse
 * [Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs](https://www.goodreads.com/book/show/17297099-effective-objective-c-2-0) by Matt Galloway
+* [Eloquent JavaScript](https://www.goodreads.com/book/show/216522872-eloquent-javascript-4th-edition) by Marijn Haverbeke
 * [Facilitating Software Architecture: Empowering Teams to Make Architectural Decisions](https://www.goodreads.com/book/show/199278709-facilitating-software-architecture) by Andrew Harmel-Law
 * [Foundations of Scalable Systems](https://www.goodreads.com/book/show/61046500-foundations-of-scalable-systems) by Ian Gorton
 * [Fundamentals of Enterprise Architecture: Proven Frameworks for Effective Architecture Decisions](https://www.goodreads.com/book/show/212162912-fundamentals-of-enterprise-architecture) by Tanusree McCabe
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture) by Mark Richards & Neal Ford
+* [Grokking Relational Database Design](https://www.goodreads.com/book/show/221399277-grokking-relational-database-design) by Qiang Hao & Michail Tsikerdekis
 * [Implementing Lean Software Development: From Concept to Cash](https://www.goodreads.com/book/show/349417.Implementing_Lean_Software_Development) by Mary Poppendieck & Tom Poppendieck
 * [Infrastructure as Code: Dynamic Systems for the Cloud Age](https://www.goodreads.com/book/show/53481701-infrastructure-as-code) by Kief Morris
 * [iPhone Programming: The Big Nerd Ranch Guide](https://www.goodreads.com/book/show/8294275-iphone-programming) by Joe Conway & Aaron Hillegass
+* [Java Cookbook](https://www.goodreads.com/book/show/227782147-java-cookbook) by Ian F. Darwin
+* [Java Generics and Collections: Fundamentals and Recommended Practices](https://www.goodreads.com/book/show/171663062) by Maurice Naftalin, Philip Wadler, & Stuart Marks
 * [Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)](https://www.goodreads.com/book/show/54716655-kill-it-with-fire) by Marianne Bellotti
+* [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.goodreads.com/book/show/123607027-kubernetes-patterns) by Bilgin Ibryam & Roland Huß
+* [Laws of Software Engineering](https://www.goodreads.com/book/show/251102114-laws-of-software-engineering) by Dr. Milan Milanovic
 * [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by Vladik Khononov
+* [Learning JavaScript Design Patterns: A JavaScript and React Developer's Guide](https://www.goodreads.com/book/show/129613293-learning-javascript-design-patterns) by Addy Osmani
 * [Mastering API Architecture: Design, Operate, and Evolve API-Based Systems](https://www.goodreads.com/book/show/62995763-mastering-api-architecture) by James Gough, Daniel Bryant, & Matthew Auburn
+* [Math for Programming](https://www.goodreads.com/book/show/198139902-math-for-programming) by Ronald T. Kneusel
+* [Modern Concurrency in Java: Virtual Threads, Structured Concurrency, and Beyond](https://www.goodreads.com/book/show/228722374) by A N M Bazlur Rahman
 * [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/book/show/57345270-modern-software-engineering) by David Farley
 * [NSHipster: Obscure Topics in Cocoa and Objective-C](https://www.goodreads.com/book/show/19262999-nshipster) by Mattt Thompson
+* [Object Oriented Design Interview: An Insider’s Guide](https://www.goodreads.com/book/show/236938513) by Desmond Zhou, Fawaz Bokhari, & Alex Xu
+* [Optimizing Cloud Native Java: Practical Techniques for Improving JVM Application Performance](https://www.goodreads.com/book/show/210408984-optimizing-cloud-native-java) by Benjamin J. Evans & James Gough
+* [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.goodreads.com/book/show/55565078) by Anthony DeBarros
 * [Programming in Objective-C](https://www.goodreads.com/book/show/120638.Programming_in_Objective_C) by Stephen G. Kochan
 * [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring) by Martin Fowler
 * [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
+* [Responsible Software Engineering: With Real-World Case Studies from Google](https://www.goodreads.com/book/show/228537080-responsible-software-engineering) by Daniel J. Barrett
 * [Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills) by John Sonmez
 * [Software Architecture in Practice](https://www.goodreads.com/book/show/14786083-software-architecture-in-practice) by Len Bass, Paul Clements, & Rick Kazman
 * [Software Development Pearls: Lessons from Fifty Years of Software Experience](https://www.goodreads.com/book/show/58064227-software-development-pearls) by Karl Wiegers
@@ -207,6 +226,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Staff Engineer: Leadership Beyond the Management Track](https://www.goodreads.com/book/show/56481725-staff-engineer) by Will Larson
 * [System Design Interview – An Insider's Guide](https://www.goodreads.com/book/show/54617137-system-design-interview) by Alex Xu
 * [System Design Interview – An Insider's Guide: Volume 2](https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide) by Alex Xu & Sahn Lam
+* [Technical Behavioral Interview: An Insider’s Guide](https://www.goodreads.com/book/show/250471511-technical-behavioral-interview) by Steve Huynh
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert Martin
 * [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.goodreads.com/book/show/25238425-the-effective-engineer) by Edmond Lau
 * [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.goodreads.com/book/show/6399113-the-passionate-programmer) by Chad Fowler
