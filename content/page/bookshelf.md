@@ -116,6 +116,7 @@ Below are various books that I have read divided into primary categories (no end
 * [Evil Geniuses: The Unmaking of America](https://www.goodreads.com/book/show/53562067-evil-geniuses) by Kurt Andersen
 * [How Democracies Die: What History Reveals About Our Future](https://www.goodreads.com/book/show/35356384-how-democracies-die) by Steven Levitsky & Daniel Ziblatt
 * [How Fascism Works: The Politics of Us and Them](https://www.goodreads.com/book/show/38255329-how-fascism-works) by Jason F. Stanley
+* [Israel's Lobby: America in the Grip of a Foreign Power](https://www.goodreads.com/book/show/246820331-israel-s-lobby) by Eli Clifton & Ian Lustick
 * [On Freedom](https://www.goodreads.com/book/show/203956715-on-freedom) by Timothy Snyder
 * [On Tyranny: Twenty Lessons from the Twentieth Century](https://www.goodreads.com/book/show/33917107-on-tyranny) by Timothy Snyder
 * [The Originalism Trap: How Extremists Stole the Constitution and How We the People Can Take It Back](https://www.goodreads.com/book/show/198563718-the-originalism-trap) by Madiba K. Dennie
@@ -154,6 +155,7 @@ Below are various books that I have read divided into primary categories (no end
 
 * [21 Lessons for the 21st Century](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century) by Yuval Noah Harari
 * [Black Pill: How I Witnessed the Darkest Corners of the Internet Come to Life, Poison Society, and Capture American Politics](https://www.goodreads.com/book/show/199798813-black-pill) by Elle Reeve
+* [End Times Fascism: And the Fight for the Living World](https://www.goodreads.com/book/show/245083585-end-times-fascism) by Naomi Klein & Astra Taylor
 * [End Times: Elites, Counter-Elites, and the Path of Political Disintegration](https://www.goodreads.com/book/show/62926960-end-times) by Peter Turchin
 * [Men Who Hate Women: From Incels to Pickup Artists: The Truth about Extreme Misogyny and How it Affects Us All](https://www.goodreads.com/book/show/136281676-men-who-hate-women) by Laura Bates
 * [Money, Lies, and God: Inside the Movement to Destroy American Democracy](https://www.goodreads.com/book/show/211003831-money-lies-and-god) by Katherine Stewart
@@ -255,3 +257,4 @@ Below are various books that I have read divided into primary categories (no end
 * [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.goodreads.com/book/show/38212110-technically-wrong) by Sara Wachter-Boettcher
 * [The Singularity Is Nearer: When We Merge with AI](https://www.goodreads.com/book/show/45024007-the-singularity-is-nearer) by Ray Kurzweil
 * [Tools and Weapons: The Promise and the Peril of the Digital Age](https://www.goodreads.com/book/show/53280807-tools-and-weapons) by Brad Smith & Carol Ann Browne
+* [Valley of Death: How Big Tech Is Fueling the Future of War](https://www.goodreads.com/book/show/250992167) by Sharon Weinberger
